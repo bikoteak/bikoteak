@@ -1,0 +1,69 @@
+*       *********************************************************
+*       *                                                         
+*       * 03-12-03             AUKERAK.MPR              01:40:28  
+*       *                                                         
+*       *********************************************************
+*       *                                                         
+*       * Juanjo Escribano Lasa                                   
+*       *                                                         
+*       * Copyright (C) 2003 Nombre de compañía                   
+*       * Chofre 5 2º A                                           
+*       * Donostia,     20001                                     
+*       * País                                              
+*       *                                                         
+*       * Descripción:                                            
+*       * Este PROGRAMA lo ha generado automáticamente GENMENU.    
+*       *                                                         
+*       *********************************************************
+
+
+*       *********************************************************
+*       *                                                         
+*       *                    Definición de menú                   
+*       *                                                         
+*       *********************************************************
+*
+
+SET SYSMENU TO
+SET SYSMENU AUTOMATIC
+
+DEFINE PAD _13y03l7u4 OF _MSYSMENU PROMPT "Txapelketa" COLOR SCHEME 3 ;
+	KEY ALT+T, ""
+DEFINE PAD _13y03l7u7 OF _MSYSMENU PROMPT "Language" COLOR SCHEME 3 ;
+	KEY ALT+L, ""
+DEFINE PAD _13y03l7u9 OF _MSYSMENU PROMPT "Laguntza" COLOR SCHEME 3 ;
+	KEY ALT+L, ""
+ON PAD _13y03l7u4 OF _MSYSMENU ACTIVATE POPUP txapelketa
+ON PAD _13y03l7u7 OF _MSYSMENU ACTIVATE POPUP language
+ON PAD _13y03l7u9 OF _MSYSMENU ACTIVATE POPUP laguntza
+
+DEFINE POPUP txapelketa MARGIN RELATIVE SHADOW COLOR SCHEME 4
+DEFINE BAR 1 OF txapelketa PROMPT "\<Ireki"
+DEFINE BAR 2 OF txapelketa PROMPT "\<Identifikazioa"
+DEFINE BAR 3 OF txapelketa PROMPT "\<Backup"
+DEFINE BAR 4 OF txapelketa PROMPT "\<Aldaketarik eza"
+DEFINE BAR 5 OF txapelketa PROMPT "\<Itxi" ;
+	SKIP FOR not empty(wontop()) ;
+	MESSAGE "Sale del programa"
+DEFINE BAR 6 OF txapelketa PROMPT "\-"
+DEFINE BAR 7 OF txapelketa PROMPT "\<Berria"
+DEFINE BAR 8 OF txapelketa PROMPT "Kopiatu"
+ON SELECTION BAR 1 OF txapelketa do form forms\txapelketak
+ON SELECTION BAR 5 OF txapelketa clear events
+
+DEFINE POPUP language MARGIN RELATIVE SHADOW COLOR SCHEME 4
+DEFINE BAR 1 OF language PROMPT "Euskara"
+DEFINE BAR 2 OF language PROMPT "\-"
+DEFINE BAR 3 OF language PROMPT "Castellano"
+DEFINE BAR 4 OF language PROMPT "Galego"
+DEFINE BAR 5 OF language PROMPT "Catalá"
+DEFINE BAR 6 OF language PROMPT "\-"
+DEFINE BAR 7 OF language PROMPT "Ingles"
+DEFINE BAR 8 OF language PROMPT "Frances"
+
+DEFINE POPUP laguntza MARGIN RELATIVE SHADOW COLOR SCHEME 4
+DEFINE BAR 1 OF laguntza PROMPT "\<Sarrera"
+DEFINE BAR 2 OF laguntza PROMPT "Billatu"
+DEFINE BAR 3 OF laguntza PROMPT "\-"
+DEFINE BAR 4 OF laguntza PROMPT "Zeri buruz"
+ON SELECTION BAR 4 OF laguntza do form forms\acercade

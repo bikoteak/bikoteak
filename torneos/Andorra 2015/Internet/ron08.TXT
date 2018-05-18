@@ -1,0 +1,1106 @@
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.1"]
+[White "Gozzoli, Yannick."]
+[Black "Granda Zuniga, Julio E."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2567"]
+[BlackElo "2652"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.2"]
+[White "Vovk, Andrey."]
+[Black "Vovk, Yuri."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2621"]
+[BlackElo "2632"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.3"]
+[White "Riff, Jean-Noel."]
+[Black "Vazquez Igarza, Renier."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2502"]
+[BlackElo "2581"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.4"]
+[White "Antoli Royo, Joaquin Miguel."]
+[Black "Lagarde, Maxime."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2430"]
+[BlackElo "2544"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.5"]
+[White "Demuth, Adrien."]
+[Black "Asis Gargatagli, Hipolito."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2531"]
+[BlackElo "2472"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.6"]
+[White "Trepat Herranz, Joan."]
+[Black "Kogan, Artur."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2351"]
+[BlackElo "2526"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.7"]
+[White "Abergel, Thal."]
+[Black "Jolly, Jean-Francois."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2440"]
+[BlackElo "2345"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.8"]
+[White "Tkachiev, Vladislav."]
+[Black "Barbot, Pierre."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2661"]
+[BlackElo "2445"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.9"]
+[White "Rudolf, Anna."]
+[Black "Iturrizaga Bonelli, Eduardo."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2335"]
+[BlackElo "2625"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.10"]
+[White "Aloma Vidal, Robert."]
+[Black "Arizmendi Martinez, Julen Luis."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2451"]
+[BlackElo "2529"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.11"]
+[White "Romero Berruezo, Francisco."]
+[Black "Narciso Dublan, Marc."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2198"]
+[BlackElo "2521"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.12"]
+[White "Garcia Trobat, Francisco."]
+[Black "Pulvett Marin, Daniel."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2273"]
+[BlackElo "2446"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.13"]
+[White "Mingarro Carceller, Sergi."]
+[Black "Bernal Moro, Luis Javier."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2264"]
+[BlackElo "2435"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.14"]
+[White "Loiseau, Quentin."]
+[Black "Llaneza Vega, Patricia."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2429"]
+[BlackElo "2262"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.15"]
+[White "Sanchez Jerez, Emilio Miguel."]
+[Black "Jerez Perez, Alfonso."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2217"]
+[BlackElo "2406"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.16"]
+[White "Orteu Capdevila, Max."]
+[Black "Roser, Kevin."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2136"]
+[BlackElo "2403"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.17"]
+[White "Gedajlovic, Max."]
+[Black "Brochet, Philippe."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2178"]
+[BlackElo "2378"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.18"]
+[White "Berkovich, Mark A."]
+[Black "Simon Padros, Emili."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2376"]
+[BlackElo "2229"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.19"]
+[White "Fernandez Lopez, Joan."]
+[Black "Sos Andreu, Eric."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2143"]
+[BlackElo "2362"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.20"]
+[White "Grollemund, Bertrand."]
+[Black "Diaz Camallonga, Carles."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2100"]
+[BlackElo "2358"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.21"]
+[White "Trigo Urquijo, Sergio."]
+[Black "Sanchez Dengra, Jose Maria."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2358"]
+[BlackElo "2137"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.22"]
+[White "Vidal, Llewellyn."]
+[Black "Congiu, Mathilde."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2080"]
+[BlackElo "2303"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.23"]
+[White "Kalegin, Evgenij."]
+[Black "Cortes Jurado, Rafael."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2445"]
+[BlackElo "2073"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.24"]
+[White "Guennoun, Anthony."]
+[Black "Guichard, Pauline."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2092"]
+[BlackElo "2353"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.25"]
+[White "Garcia, Jhoel."]
+[Black "Mateu Guiu, Esteve."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2336"]
+[BlackElo "2028"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.26"]
+[White "Silva Rodriguez, Fernando."]
+[Black "Dacalor, Aurelie."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2305"]
+[BlackElo "1999"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.27"]
+[White "Laclau, Daniel."]
+[Black "Marcos Herrero, Francisco."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2301"]
+[BlackElo "1920"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.28"]
+[White "Caron, Damien."]
+[Black "Serarols Mabras, Bernat."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2024"]
+[BlackElo "2260"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.29"]
+[White "Sanchez Jimenez, Juan Carlos."]
+[Black "Sevillano Garcia, Joaquin."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2252"]
+[BlackElo "1897"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.30"]
+[White "Krumm, Johannes."]
+[Black "Romero Calduch, Sergio."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2041"]
+[BlackElo "2172"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.31"]
+[White "Nieves Cabanes, Javier."]
+[Black "Aiglon, Nicolas."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2141"]
+[BlackElo "1805"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.32"]
+[White "Davies, Peter."]
+[Black "Jose Queralto, Daniel."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1953"]
+[BlackElo "2134"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.33"]
+[White "Dubois, Pierre."]
+[Black "Dupy, Lucas."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2112"]
+[BlackElo "1763"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.34"]
+[White "Attard, Leopold."]
+[Black "Gil Quilez, Sonia."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1802"]
+[BlackElo "2101"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.35"]
+[White "Gomez Jurado, Luis Alberto."]
+[Black "Vlachos, Anatole."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2272"]
+[BlackElo "2028"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.36"]
+[White "Aiglon, Laurent."]
+[Black "Saucey, Michel."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2018"]
+[BlackElo "2268"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.37"]
+[White "Canonge, Lionel."]
+[Black "Gelis, Dorian."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1975"]
+[BlackElo "2166"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.38"]
+[White "Garcia Paolicchi, Raul."]
+[Black "Cattaneo, Romain."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2158"]
+[BlackElo "2016"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.39"]
+[White "Rechi Perez, Francesc."]
+[Black "Quidiello Prado, Manuel Rogelio."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1934"]
+[BlackElo "2131"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.40"]
+[White "Chargelegue, Thomas."]
+[Black "Varela La Madrid, Maria."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2094"]
+[BlackElo "1966"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.41"]
+[White "Le Montagner, Yoann."]
+[Black "Gonzalvez Tamarit, Ruben."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2094"]
+[BlackElo "1883"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.42"]
+[White "Sanchez Dengra, Barbara."]
+[Black "Lux,Hugo de Melo."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1869"]
+[BlackElo "2081"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.43"]
+[White "Garcia-Blazquez Perez, Manuel."]
+[Black "Globus, Or."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1825"]
+[BlackElo "2080"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.44"]
+[White "Guyader, Thierry."]
+[Black "Dubois, Marie."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2059"]
+[BlackElo "1870"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.45"]
+[White "Anguera Maestro, Jaime."]
+[Black "Mercier, Pierre."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2040"]
+[BlackElo "1665"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.46"]
+[White "Alvarez Albiol, Victor."]
+[Black "Gutierrez Anso, Jose."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1819"]
+[BlackElo "2028"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.47"]
+[White "Picart, Laurent."]
+[Black "Riba Revert, Valenti."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2142"]
+[BlackElo "1466"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.48"]
+[White "Raggini, Lionel."]
+[Black "Pampliega Canturri, Antoni."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2071"]
+[BlackElo "1844"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.49"]
+[White "Prats Rodriguez, Juan Bosco."]
+[Black "Dubreuil, Remy."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1994"]
+[BlackElo "1840"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.50"]
+[White "Leost, Joel."]
+[Black "Uriarte Prieto, Goyo."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1398"]
+[BlackElo "1993"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.51"]
+[White "Iclicki, Willy."]
+[Black "Jean, Ludovic."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1979"]
+[BlackElo "1758"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.52"]
+[White "Guillo Longares, Cecilia."]
+[Black "Cemborain Oricain, Alfonso."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1822"]
+[BlackElo "1924"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.53"]
+[White "Broly, Mathilde."]
+[Black "Elizondo Marquet Juan Marcos."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1909"]
+[BlackElo "1802"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.54"]
+[White "Gras Travesset, Ferran."]
+[Black "Fernandez Mira, Alonso."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1675"]
+[BlackElo "1908"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.55"]
+[White "Bouguerra, Tayeb."]
+[Black "De Mendizabal Vega, Raul."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1904"]
+[BlackElo "1720"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.56"]
+[White "Sevenyuk, Alexey."]
+[Black "Elguezabal Selioutin, Dario."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1888"]
+[BlackElo "1672"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.57"]
+[White "Eizaguerri Floris, Maria."]
+[Black "Lloveras Hernanz, Jose Antonio."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1874"]
+[BlackElo "1661"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.58"]
+[White "Gonzalvez Tamarit, Ivan."]
+[Black "Crnkovic, Predrag."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1739"]
+[BlackElo "1847"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.59"]
+[White "Tardio Fran, Emilio."]
+[Black "Mabres Torello, Josep."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1825"]
+[BlackElo "0"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.60"]
+[White "Potratz, Yannick."]
+[Black "Gonzalvez Perales, Jose Luis."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1639"]
+[BlackElo "2010"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.61"]
+[White "De Mendizabal Gijon, Raul."]
+[Black "Pignataro, Louis."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1393"]
+[BlackElo "1865"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.62"]
+[White "Diaz Narvaez, Jose."]
+[Black "Clanchet Olle, Josep."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1760"]
+[BlackElo "1675"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.63"]
+[White "Estevez Sacristan, Deva."]
+[Black "Chopinaud, Francis."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1754"]
+[BlackElo "1581"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.64"]
+[White "Alcon Llosada, Alex."]
+[Black "Chargelegue, Laurent."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1302"]
+[BlackElo "1740"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.65"]
+[White "Urena Casacuberta, Lluis."]
+[Black "Damofli, Clement."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1939"]
+[BlackElo "1433"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.66"]
+[White "Galera Serra, Maria."]
+[Black "Eyrard, Alain."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1540"]
+[BlackElo "1849"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.67"]
+[White "Molina Cabaleiro, Juan Jose."]
+[Black "Saucey, Milena."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1781"]
+[BlackElo "1520"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.68"]
+[White "Esteoule, Guy."]
+[Black "Gorgues Valle, Jose Maria."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1421"]
+[BlackElo "1739"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.69"]
+[White "Moscoso Rodriguez, Joan."]
+[Black "Sorini, Gilbert."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1659"]
+[BlackElo "1477"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.70"]
+[White "Porte, Jacques."]
+[Black "Giro Castellet, Esteve."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1446"]
+[BlackElo "1647"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.71"]
+[White "Nerino Escoubet, Nicolas."]
+[Black "Jonker, Jan."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1618"]
+[BlackElo "1409"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.72"]
+[White "Lepeigneux, Jean-Jacques."]
+[Black "Alvarez Albiol, Daniel."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1608"]
+[BlackElo "1363"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.73"]
+[White "Brochet, Thierry."]
+[Black "Vazquez Rodriguez, Francisco."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1604"]
+[BlackElo "1301"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.74"]
+[White "Arias Velasco, Jose."]
+[Black "Alcon Llosada, Jaume."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1600"]
+[BlackElo "1248"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.75"]
+[White "Linares Andres, Antonio."]
+[Black "Martinez Gamiz, Marc."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1574"]
+[BlackElo "0"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.76"]
+[White "Genis Traveria, Ferran."]
+[Black "Pantebre Martinez, Benet."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "0"]
+[BlackElo "1689"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.77"]
+[White "Alcon Beltran, Alfred."]
+[Black "Giron Herranz, Juan."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.78"]
+[White "De la Riva Real, Ariadna."]
+[Black "Navarro Mignorance, Ernest."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[PlyCount "0"]
+
+ *
+
+[Event "33 Open Andorra Hotel St.Gothard "]
+[Site "Erts-La Massana"]
+[Date "2015.07.25"]
+[Round "8.79"]
+[White "Kogan Plachkinova, Carolina."]
+[Black "."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[PlyCount "0"]
+
+ *
+

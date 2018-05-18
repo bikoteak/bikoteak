@@ -1,0 +1,86 @@
+CLOSE DATABASES
+SET TALK OFF
+SET ALTERNATE TO TORNEO.TXT
+SET ALTERNATE ON
+SET CONSOLE off
+SET DELETED OFF
+SELECT 0
+USE torneo
+SELECT 0
+USE jugadore
+SUM 1 TO resul FOR elo_fide > 0
+? "Elo",resul
+SUM 1 TO resul FOR elo_fide = 0
+? "No Elo",resul
+SUM 1 TO resul FOR categoria = "GM"
+? "Nº g",resul
+SUM 1 TO resul FOR categoria = "WGM"
+? "Nº wg",resul
+SUM 1 TO resul FOR categoria = "IM"
+? "Nº m",resul
+SUM 1 TO resul FOR categoria = "WIM"
+? "Nº wm",resul
+SUM 1 TO resul FOR categoria = "FM"
+? "Nº f",resul
+SUM 1 TO resul FOR categoria = "WFM"
+? "Nº wf",resul
+?
+SELECT DISTINCT federacion FROM jugadore INTO CURSOR cursor1 nofilter WHERE elo_fide > 0
+? "Elo Federaciones",RECCOUNT("cursor1")
+SELECT DISTINCT federacion FROM jugadore INTO CURSOR cursor1 nofilter WHERE elo_fide = 0
+? "No Elo Federaciones",RECCOUNT("cursor1")
+SELECT DISTINCT federacion FROM jugadore INTO CURSOR cursor1 nofilter WHERE categoria = "GM"
+? "Federaciones g",RECCOUNT("cursor1")
+SELECT DISTINCT federacion FROM jugadore INTO CURSOR cursor1 nofilter WHERE categoria = "WGM"
+? "Federaciones wg",RECCOUNT("cursor1")
+SELECT DISTINCT federacion FROM jugadore INTO CURSOR cursor1 nofilter WHERE categoria = "IM"
+? "Federaciones m",RECCOUNT("cursor1")
+SELECT DISTINCT federacion FROM jugadore INTO CURSOR cursor1 nofilter WHERE categoria = "WIM"
+? "Federaciones wm",RECCOUNT("cursor1")
+SELECT DISTINCT federacion FROM jugadore INTO CURSOR cursor1 nofilter WHERE categoria = "FM"
+? "Federaciones f",RECCOUNT("cursor1")
+SELECT DISTINCT federacion FROM jugadore INTO CURSOR cursor1 nofilter WHERE categoria = "WFM"
+? "Federaciones wf",RECCOUNT("cursor1")
+?
+SELECT jugadore
+SUM 1 TO resul FOR federacion = torneo.pais AND elo_fide > 0
+? "Locales Elo",resul
+SUM 1 TO resul FOR federacion = torneo.pais AND elo_fide = 0
+? "Locales no Elo",resul
+SUM 1 TO resul FOR federacion = torneo.pais AND categoria = "GM"
+? "Locales g",resul
+SUM 1 TO resul FOR federacion = torneo.pais AND categoria = "WGM"
+? "Locales wg",resul
+SUM 1 TO resul FOR federacion = torneo.pais AND categoria = "IM"
+? "Locales m",resul
+SUM 1 TO resul FOR federacion = torneo.pais AND categoria = "WIM"
+? "Locales wm",resul
+SUM 1 TO resul FOR federacion = torneo.pais AND categoria = "FM"
+? "Locales f",resul
+SUM 1 TO resul FOR federacion = torneo.pais AND categoria = "WFM"
+? "Locales wf",resul
+?
+SUM 1 TO resul FOR federacion <> torneo.pais AND elo_fide > 0
+? "Foraneos Elo",resul
+SUM 1 TO resul FOR federacion <> torneo.pais AND elo_fide = 0
+? "Foraneos no Elo",resul
+SUM 1 TO resul FOR federacion <> torneo.pais AND categoria = "GM"
+? "Foraneos g",resul
+SUM 1 TO resul FOR federacion <> torneo.pais AND categoria = "WGM"
+? "Foraneos wg",resul
+SUM 1 TO resul FOR federacion <> torneo.pais AND categoria = "IM"
+? "Foraneos m",resul
+SUM 1 TO resul FOR federacion <> torneo.pais AND categoria = "WIM"
+? "Foraneos wm",resul
+SUM 1 TO resul FOR federacion <> torneo.pais AND categoria = "FM"
+? "Foraneos f",resul
+SUM 1 TO resul FOR federacion <> torneo.pais AND categoria = "WFM"
+? "Foraneos wf",resul
+MODIFY LABEL IT3
+LABEL FORM IT3 ENVIRONMENT NOCONSOLE TO PRINTER prompt 
+CLOSE data
+SET ALTERNATE OFF
+SET ALTERNATE TO
+SET CONSOLE on
+SET DELETED ON
+SET TALK ON

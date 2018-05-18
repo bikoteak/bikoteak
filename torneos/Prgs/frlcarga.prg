@@ -1,0 +1,38 @@
+SET TALK OFF
+USE ?
+zap
+num_fich = FOPEN("C:\torneos\elo fide\players_list.txt")
+IF num_fich = -1
+   ? "ferror = " , FERROR()
+   WAIT "No se puede abrir el fichero " WINDOW TIMEOUT(5)
+else
+   =FGETS(num_fich)
+   registro = FGETS(num_fich)
+   DO WHILE 1 = 1
+      INSERT blank
+      replace id_number WITH VAL(SUBSTR(registro,1,9)),;
+              name WITH SUBSTR(registro,16,32),;
+              country WITH SUBSTR(registro,77,3),;
+              sex WITH SUBSTR(registro,81,3),;
+              title WITH SUBSTR(registro,85,3),;
+              rt_s WITH VAL(SUBSTR(registro,114,4)),;
+              g_s WITH VAL(SUBSTR(REGISTRO,119,2)),;
+              k_s WITH VAL(SUBSTR(REGISTRO,124,2)),;
+              ro_r WITH VAL(SUBSTR(registro,127,4)),;
+              g_r WITH VAL(SUBSTR(REGISTRO,132,2)),;
+              k_R WITH VAL(SUBSTR(REGISTRO,137,2)),;
+              ro_B WITH VAL(SUBSTR(registro,140,4)),;
+              g_b WITH VAL(SUBSTR(REGISTRO,145,2)),;
+              k_B WITH VAL(SUBSTR(REGISTRO,150,2)),;
+              birthday WITH VAL(SUBSTR(registro,153,4)),;
+              flag WITH SUBSTR(registro,159,3)
+      if feof(num_fich)
+         EXIT
+      endif
+      registro = FGETS(num_fich)
+   enddo
+   FCLOSE(num_fich)
+ENDIF
+REPLACE ALL SEX WITH IIF(sex="M","m","w")
+use
+SET TALK ON

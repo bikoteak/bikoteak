@@ -1,0 +1,11 @@
+SELECT Cuadro.num_mesa, Cuadro.jug_num1, Cuadro.jug_num2,;
+  Jugadore.nombre, Jugadore.federacion, Resultad.texto,;
+  Jugadore_a.federacion, Jugadore_a.nombre;
+ FROM Cuadro, Jugadore, JUGADORE Jugadore_a, Resultad, Control;
+ WHERE Jugadore.num_jug = Cuadro.jug_num1;
+   AND Jugadore_a.num_lista = Cuadro.jug_num2;
+   AND Resultad.resultado = Cuadro.resultado;
+   AND Control.ronda = Cuadro.n_ronda;
+ HAVING Cuadro.status = .T.;
+ ORDER BY Cuadro.num_mesa;
+ INTO CURSOR Query

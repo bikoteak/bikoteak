@@ -1,0 +1,8 @@
+SELECT Rondas.num_mesa, Jugadore.nombre, Jugadore.tot_ptos,;
+  Jugadore.federacion, Rondas.jug_num1, Rondas.jug_num2,;
+  Jugadore_b.federacion, Jugadore_b.nombre, Jugadore_b.tot_ptos;
+ FROM Rondas, Jugadore, JUGADORE Jugadore_b;
+ WHERE Jugadore.num_jug = Rondas.jug_num1;
+   AND Jugadore_b.num_jug = Rondas.jug_num2;
+ ORDER BY Rondas.num_mesa;
+ INTO CURSOR Query

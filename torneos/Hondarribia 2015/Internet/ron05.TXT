@@ -1,0 +1,308 @@
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.1"]
+[White "Mayo Martinez, Manuel."]
+[Black "Torres Ganuza, Francisco Javier."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2195"]
+[BlackElo "2097"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.2"]
+[White "Cruz-Lopez Claret, Carlos."]
+[Black "Dominguez Ofretorio, Javier."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2304"]
+[BlackElo "2126"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.3"]
+[White "Olaizola Ortega, Luis."]
+[Black "Vinal Gutierrez, Pedro."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2134"]
+[BlackElo "2067"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.4"]
+[White "Jimenez Almeida, Luis David."]
+[Black "Iraola Iraola, Unai."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2132"]
+[BlackElo "1969"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.5"]
+[White "Carrascal Rosal, Alberto."]
+[Black "Tornay Gomez, Josu."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1871"]
+[BlackElo "2079"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.6"]
+[White "Arrese-Igor Sanchez, Cesareo."]
+[Black "Serras Uria, Antonio."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1964"]
+[BlackElo "2234"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.7"]
+[White "Zuniga Arraras, Marina."]
+[Black "Galarza Cenzano, Inigo."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1564"]
+[BlackElo "2025"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.8"]
+[White "Zuniga Catalan, Pablo."]
+[Black "Uriarte Prieto, Goyo."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "0"]
+[BlackElo "1993"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.9"]
+[White "Iturralde Echeverria, Ivan."]
+[Black "Ugalde Ezcurra, Jose Miguel."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1621"]
+[BlackElo "2183"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.10"]
+[White "Reguillaga Elias, Manex."]
+[Black "Lakunza Oyarbide, Juan Carlos."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1601"]
+[BlackElo "2062"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.11"]
+[White "Nogues Fernandez, Ramon."]
+[Black "Urkia Imaz, Garikoitz."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1902"]
+[BlackElo "1729"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.12"]
+[White "Alvarado Fernandez, Mikel."]
+[Black "Donazar Garayoa, Miguel."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1874"]
+[BlackElo "1603"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.13"]
+[White "Parron Luceno, David."]
+[Black "Zubia Aramburu, Mikel."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1537"]
+[BlackElo "1793"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.14"]
+[White "Aramendia Ybarra, Carlota."]
+[Black "Arrondo Carbonell, Pablo."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1376"]
+[BlackElo "1685"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.15"]
+[White "Garcia Tajada, Fernando."]
+[Black "Arrese-Igor Royuela, Alex."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "0"]
+[BlackElo "1554"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.16"]
+[White "Abdula Boisteanu, Cristina."]
+[Black "Tafall Soreasu, Mikel."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1169"]
+[BlackElo "0"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.17"]
+[White "Tornay, Aritz."]
+[Black "Caballero Acosta, Erlantz."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "0"]
+[BlackElo "1153"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.18"]
+[White "Tafall Villanueva, Ander."]
+[Black "Eguaras Marquinez, Unai."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1612"]
+[BlackElo "1106"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.19"]
+[White "Moreiro Sanchez, Silvestre."]
+[Black "Lopez Garcia, Patxi."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "1509"]
+[BlackElo "0"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.20"]
+[White "Pereira Varela, Juan Antonio."]
+[Black "Tornay, Haizea."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "0"]
+[BlackElo "1269"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.21"]
+[White "Urroz Lopez, Julia."]
+[Black "Fernandez Arribas, Joseba."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[PlyCount "0"]
+
+ *
+
+[Event "HONDARRIBIKO GAZTELUA V. XAKE AKTIBO TXAPELKETA "]
+[Site "Hondarribia"]
+[Date "2015.08.30"]
+[Round "5.22"]
+[White "Hoyos Fernandez, Fernando."]
+[Black "."]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[PlyCount "0"]
+
+ *
+

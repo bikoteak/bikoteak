@@ -1,0 +1,1 @@
+No;FIDE Id;NombreCompleto;Fed;Titulo;FNac;Sex;FIDE

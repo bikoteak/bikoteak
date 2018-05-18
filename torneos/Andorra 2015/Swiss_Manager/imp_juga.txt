@@ -1,0 +1,168 @@
+No;FIDE Id;NombreCompleto;Fed;Titulo;FNac;Sex;FIDE
+0;2223198;Exposito Amaro, Josue;ESP;FM;1980;m;2255
+0;2278570;Lopez Atay, Diana Ruth;ESP;;1983;w;1949
+0;2281880;Vila Camps, Carles;ESP;;1974;m;1782
+0;36020664;Jean, Ludovic;FRA;;1973;m;1758
+0;24560936;Vara Soler, Luis;ESP;;2005;m;0
+0;2224801;Guerra Reig, Juan;ESP;;1974;m;1995
+0;2246678;Mingarro Carceller, Sergi;ESP;;1993;m;2234
+0;2246848;Romero Calduch, Sergio;ESP;;1996;m;2172
+0;24561304;Casares Bonals, Ainhoa;ESP;;2005;w;0
+0;24561312;Casares Bonals, Asier;ESP;;2006;m;0
+0;6900593;Morente Plaza, Marc;AND;;1990;m;0
+0;2294311;Morros Faura, Ricard;ESP;;1965;m;2197
+0;2258340;Real Pons, Joan;ESP;;1942;m;1835
+0;6901018;De la Riva Real, Ariadna;AND;;2005;w;0
+0;6900224;De La Riva Aguado, Oscar;AND;GM;1972;m;2517
+0;6900348;Fernandez Lopez, Joan;AND;;1989;m;2103
+0;6900020;Garcia Paolicchi, Raul;AND;FM;1952;m;2148
+0;2269937;Garcia-Blazquez Perez, Manuel;ESP;;1977;m;1844
+0;4103416;Kalegin, Evgenij;RUS;IM;1954;m;2451
+0;32082681;Guillo Longares, Cecilia;ESP;;2004;w;1748
+0;32065752;Eizaguerri Floris, Maria;ESP;;2004;w;1627
+0;2211068;Sevillano Garcia, Joaquin;ESP;;1954;m;1865
+0;24532495;Vazquez Rodriguez, Francisco;ESP;;2006;m;1301
+0;2220270;Cortes Jurado, Rafael;ESP;;1978;m;2078
+0;975362;Crnkovic, Predrag;SRB;;1962;m;1847
+0;662399;Lagarde, Maxime;FRA;GM;1994;m;2583
+0;642274;Demuth, Adrien;FRA;GM;1991;m;2453
+0;2213133;Quidiello Prado, Manuel Rogelio;ESP;;1969;m;2139
+0;6900100;Moscoso Rodriguez, Joan;AND;;1954;m;1755
+0;665274;Loiseau, Quentin;FRA;IM;1995;m;2383
+0;663727;Barbot, Pierre;FRA;FM;1995;m;2368
+0;2260735;Asis Gargatagli, Hipolito;ESP;IM;1986;m;2517
+0;2260409;Aloma Vidal, Robert;ESP;IM;1989;m;2445
+0;22273646;Oyarzabal Alzugaray, Javier;ESP;;1971;m;0
+0;6900976;Martinez Gamiz, Marc;AND;;2005;m;0
+0;2215268;Silva Rodriguez, Fernando;ESP;;1993;m;2222
+0;3801110;Garcia, Jhoel;PER;;1988;m;2352
+0;22247017;Sos Andreu, Eric;ESP;FM;1993;m;2296
+0;6900283;Galera Serra, Maria;AND;;1998;w;1475
+0;6901069;Alcon Beltran, Alfred;AND;;1968;m;0
+0;6900780;Alcon Llosada, Alex;AND;;2003;m;1302
+0;6900798;Alcon Llosada, Jaume;AND;;2006;m;1248
+0;611190;Riff, Jean-Noel;FRA;GM;1981;m;2469
+0;32075359;Orteu Capdevila, Max;ESP;;1999;m;2123
+0;6900364;Riba Revert, Valenti;AND;;2000;m;1582
+0;22270728;Mateu Guiu, Esteve;AND;;1992;m;2075
+0;2256088;Sanchez Jerez, Emilio Miguel;ESP;FM;1984;m;2282
+0;2263980;Gil Quilez, Sonia;ESP;WF;1989;w;2129
+0;3901211;Iturrizaga Bonelli, Eduardo;VEN;GM;1989;m;2697
+0;3503054;Vazquez Igarza, Renier;ESP;GM;1979;m;2577
+0;26042800;Potratz, Yannick;FRA;;2001;m;1639
+0;24544060;Kogan Plachkinova, Carolina;ESP;;2004;w;0
+0;2800802;Kogan, Artur;ISR;GM;1974;m;2584
+0;32092334;De Mendizabal Gijon, Raul;ESP;;2004;m;1393
+0;22286489;De Mendizabal Vega, Raul;ESP;;1977;m;1720
+oan;AND;;1989;m;2143
+56;605778;Picart, Laurent;FRA;;1971;m;2142
+57;22245707;Nieves Cabanes, Javier;ESP;;1996;m;2141
+58;22245391;Sanchez Dengra, Jose Maria;ESP;;1997;m;2137
+59;32075359;Orteu Capdevila, Max;ESP;;1999;m;2136
+60;6900089;Jose Queralto, Daniel;AND;CM;1973;m;2134
+61;2213133;Quidiello Prado, Manuel Rogelio;ESP;;1969;m;2131
+62;673609;Dubois, Pierre;FRA;;1990;m;2112
+63;2263980;Gil Quilez, Sonia;ESP;WF;1989;w;2101
+64;619523;Grollemund, Bertrand;FRA;;1981;m;2100
+65;36000426;Chargelegue, Thomas;FRA;;2002;m;2094
+66;633720;Le Montagner, Yoann;FRA;;1985;m;2094
+67;628816;Guennoun, Anthony;FRA;;1984;m;2092
+68;2138298;Lux,Hugo de Melo;BRA;;2002;m;2081
+69;2816776;Globus, Or;ISR;;2003;m;2080
+70;20661347;Vidal, Llewellyn;FRA;;1992;m;2080
+71;2220270;Cortes Jurado, Rafael;ESP;;1978;m;2073
+72;624357;Raggini, Lionel;FRA;;1979;m;2071
+73;622079;Guyader, Thierry;FRA;;1972;m;2059
+74;2219476;Mas Recorda, Pere;ESP;;1943;m;2052
+75;4643747;Krumm, Johannes;GER;;1968;m;2041
+76;2201577;Anguera Maestro, Jaime;ESP;;1940;m;2040
+77;2273829;Gutierrez Anso, Jose;ESP;;1954;m;2028
+78;22270728;Mateu Guiu, Esteve;AND;;1992;m;2028
+79;26093189;Vlachos, Anatole;GRE;;2002;m;2028
+80;625620;Caron, Damien;FRA;;1982;m;2024
+81;620297;Aiglon, Laurent;FRA;;1983;m;2018
+82;650242;Cattaneo, Romain;FRA;;1987;m;2016
+83;2256720;Gonzalvez Perales, Jose Luis;ESP;;1967;m;2010
+84;617083;Dacalor, Aurelie;FRA;WF;1980;w;1999
+85;2221411;Prats Rodriguez, Juan Bosco;ESP;;1962;m;1994
+86;2214407;Uriarte Prieto, Goyo;ESP;;1971;m;1993
+87;200450;Iclicki, Willy;LIE;;1955;m;1979
+88;614459;Canonge, Lionel;FRA;;1978;m;1975
+89;3903346;Varela La Madrid, Maria;VEN;;1992;w;1966
+90;1801171;Davies, Peter;WLS;;1952;m;1953
+91;22244026;Urena Casacuberta, Lluis;ESP;;1975;m;1939
+92;6900330;Rechi Perez, Francesc;AND;;1956;m;1934
+93;2274345;Cemborain Oricain, Alfonso;ESP;;1965;m;1924
+94;2279045;Marcos Herrero, Francisco;ESP;;1963;m;1920
+95;20682794;Broly, Mathilde;FRA;;2000;w;1909
+96;32018568;Fernandez Mira, Alonso;ESP;;1999;m;1908
+97;613681;Bouguerra, Tayeb;FRA;;1947;m;1904
+98;2211068;Sevillano Garcia, Joaquin;ESP;;1954;m;1897
+99;13504606;Sevenyuk, Alexey;BLR;;1944;m;1888
+100;32041764;Gonzalvez Tamarit, Ruben;ESP;;2002;m;1883
+101;32065752;Eizaguerri Floris, Maria;ESP;;2004;w;1874
+102;20643039;Dubois, Marie;FRA;;1995;w;1870
+103;22245383;Sanchez Dengra, Barbara;ESP;;1994;w;1869
+104;636037;Pignataro, Louis;FRA;;1946;m;1865
+105;693022;Eyrard, Alain;FRA;;1949;m;1849
+106;975362;Crnkovic, Predrag;SRB;;1962;m;1847
+107;2258030;Pampliega Canturri, Antoni;ESP;;1933;m;1844
+108;616257;Dubreuil, Remy;FRA;;1940;m;1840
+109;2269937;Garcia-Blazquez Perez, Manuel;ESP;;1977;m;1825
+110;2222116;Tardio Fran, Emilio;ESP;;1950;m;1825
+111;32082681;Guillo Longares, Cecilia;ESP;;2004;w;1822
+112;32065930;Alvarez Albiol, Victor;ESP;;2003;m;1819
+113;2267446;Mora Amella, Joan;ESP;;1942;m;1818
+114;635278;Aiglon, Nicolas;FRA;;1980;m;1805
+115;26042380;Attard, Leopold;FRA;;2001;m;1802
+116;2252236;Elizondo Marquet Juan Marcos;ESP;;1966;m;1802
+117;2299909;Molina Cabaleiro, Juan Jose;ESP;;1970;m;1781
+118;20619898;Dupy, Lucas;FRA;;1985;m;1763
+119;2269279;Diaz Narvaez, Jose;ESP;;1943;m;1760
+120;36020664;Jean, Ludovic;FRA;;1973;m;1758
+121;32041101;Estevez Sacristan, Deva;ESP;;2004;w;1754
+122;36064840;Chargelegue, Laurent;FRA;;1969;m;1740
+123;32041721;Gonzalvez Tamarit, Ivan;ESP;;2000;m;1739
+124;6900011;Gorgues Valle, Jose Maria;AND;;1945;m;1739
+125;22286489;De Mendizabal Vega, Raul;ESP;;1977;m;1720
+126;603007;Bertrand, Meryl;FRA;;1996;w;1699
+127;6900429;Pantebre Martinez, Benet;AND;;1929;m;1689
+128;2264358;Clanchet Olle, Josep;ESP;;1984;m;1675
+129;6900526;Gras Travesset, Ferran;AND;;1996;m;1675
+130;32010052;Elguezabal Selioutin, Dario;ESP;;2001;m;1672
+131;635863;Mercier, Pierre;FRA;;1938;m;1665
+132;2290413;Lloveras Hernanz, Jose Antonio;ESP;;1953;m;1661
+133;6900100;Moscoso Rodriguez, Joan;AND;;1954;m;1659
+134;22234136;Giro Castellet, Esteve;ESP;;1972;m;1647
+135;26042800;Potratz, Yannick;FRA;;2001;m;1639
+136;20668821;Nerino Escoubet, Nicolas;FRA;;1992;m;1618
+137;20668813;Lepeigneux, Jean-Jacques;FRA;;1991;m;1608
+138;650714;Brochet, Thierry;FRA;;1944;m;1604
+139;2219930;Arias Velasco, Jose;ESP;;1934;m;1600
+140;36051209;Chopinaud, Francis;FRA;;1955;m;1581
+141;22225170;Linares Andres, Antonio;ESP;;1968;m;1574
+142;6900283;Galera Serra, Maria;AND;;1998;w;1540
+143;20608756;Saucey, Milena;FRA;;1997;w;1520
+144;6900720;Arques Rubio, Daniel;AND;;2001;m;1503
+145;20609159;Sorini, Gilbert;FRA;;1940;m;1477
+146;6900364;Riba Revert, Valenti;AND;;2000;m;1466
+147;664847;Porte, Jacques;FRA;;1933;m;1446
+148;26061597;Damofli, Clement;FRA;;1991;m;1433
+149;604380;Esteoule, Guy;FRA;;1943;m;1421
+150;664413;Jonker, Jan;FRA;;1934;m;1409
+151;606057;Leost, Joel;FRA;;1955;m;1398
+152;32092334;De Mendizabal Gijon, Raul;ESP;;2004;m;1393
+153;32099223;Alvarez Albiol, Daniel;ESP;;2005;m;1363
+154;6900780;Alcon Llosada, Alex;AND;;2003;m;1302
+155;24532495;Vazquez Rodriguez, Francisco;ESP;;2006;m;1301
+156;6900763;Ribera Veganzones, Josep Maria;AND;;2003;m;1276
+157;6900798;Alcon Llosada, Jaume;AND;;2006;m;1248
+158;6901069;Alcon Beltran, Alfred;AND;;1968;m;0
+159;6901018;De la Riva Real, Ariadna;AND;;2005;w;0
+160;24519707;Genis Traveria, Ferran;ESP;;1978;m;0
+161;24562602;Giron Herranz, Juan;ESP;;2003;m;0
+162;24544060;Kogan Plachkinova, Carolina;ESP;;2004;w;0
+163;24561550;Mabres Torello, Josep;ESP;;1943;m;0
+164;6900976;Martinez Gamiz, Marc;AND;;2005;m;0
+165;6900607;Navarro Mignorance, Ernest;AND;;1955;m;0
+166;6900860;Ribera Veganzones, Serni;AND;;2007;m;0

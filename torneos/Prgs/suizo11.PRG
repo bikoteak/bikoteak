@@ -1,0 +1,34 @@
+select 0
+use sub_torn
+set order to tag(1)
+select 0
+use control
+nume_ron = ronda
+set relation to sub_torneo into sub_torn
+fichero = "internet\" + "ron" +;
+   right("00" + alltrim(str(control.ronda + 1)),2) + sub_torn.nombre
+fichero2 = TRIM("swiss_manager\" + "ron" +;
+   right("00" + alltrim(str(control.ronda + 1)),2) + ALLTRIM(sub_torn.nombre)) + ".txt"
+close databases
+do suizo223
+use salron
+copy to &fichero
+close data
+report form rondas environment noconsole to print prompt
+SELECT 0
+USE handicap
+SET ORDER TO TAG("num_jug")
+SELECT 0
+USE handicap AGAIN ALIAS handica2
+SET ORDER TO TAG("num_jug")
+SELECT rondas
+SET FILTER TO jugadore.once OR segundo.once
+set relation to jug_num1 into handicap additive 
+set relation to jug_num2 into handica2 additive
+report form handicap noconsole to print prompt
+SELECT rondas
+SET FILTER TO
+do ron_html with nume_ron + 1 , fichero
+close databases
+DO swissemp
+DO sumfic WITH "swiss_manager\ron_swis.txt", "rondas.txt", fichero2

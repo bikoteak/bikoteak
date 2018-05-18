@@ -1,0 +1,41 @@
+*       *********************************************************
+*       *                                                         
+*       * 01-02-04            VENTANAS.MPR              03:50:39  
+*       *                                                         
+*       *********************************************************
+*       *                                                         
+*       * Juanjo Escribano Lasa                                   
+*       *                                                         
+*       * Copyright (C) 2004 Nombre de compañía                   
+*       * Chofre 5 2º A                                           
+*       * Donostia,     20001                                     
+*       * País                                              
+*       *                                                         
+*       * Descripción:                                            
+*       * Este PROGRAMA lo ha generado automáticamente GENMENU.    
+*       *                                                         
+*       *********************************************************
+
+
+*       *********************************************************
+*       *                                                         
+*       *                    Definición de menú                   
+*       *                                                         
+*       *********************************************************
+*
+
+
+DEFINE PAD _msm_windo OF _MSYSMENU PROMPT "Ve\<ntana" COLOR SCHEME 3 ;
+	NEGOTIATE  RIGHT, NONE ;
+	KEY ALT+N, "" ;
+	SKIP FOR EMPTY(WONTOP()) ;
+	MESSAGE "Manipula ventanas, y muestra las ventanas Comandos y Vista."
+ON PAD _msm_windo OF _MSYSMENU ACTIVATE POPUP _mwindow
+
+DEFINE POPUP _mwindow MARGIN RELATIVE SHADOW COLOR SCHEME 4
+DEFINE BAR _mwi_arran OF _mwindow PROMPT "\<Organizar todo" ;
+	MESSAGE "Organiza las ventanas como mosaicos que no se superponen."
+DEFINE BAR _mwi_sp100 OF _mwindow PROMPT "\-"
+DEFINE BAR _mwi_rotat OF _mwindow PROMPT "\<Recorrer" ;
+	KEY CTRL+F1, "Ctrl+F1" ;
+	MESSAGE "Recorre todas las ventanas abiertas."

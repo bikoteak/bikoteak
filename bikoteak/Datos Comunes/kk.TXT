@@ -1,0 +1,124 @@
+30001Abrir                                             
+30002Nuevo                                             
+30003Grabar                                            
+30004Borrar                                            
+30005Deshacer                                          
+30006Añadir nueva linea de detalle                     
+30007Quitar linea de detalle                           
+30008Buscar                                            
+30009Primero                                           
+30010Anterior                                          
+30011Siguiente                                         
+30012Ultimo                                            
+30013Listados                                          
+30014Cerrar                                            
+30015Mantenimiento de tablas                           
+30016                                                  
+30017                                                  
+30018                                                  
+30019                                                  
+30020Ayuda                                             
+30021Introducción                                      
+30022Acerca de                                         
+30023                                                  
+30024                                                  
+30025Ventana                                           
+30026Organizar todo                                    
+30027Recorrer                                          
+30028                                                  
+30029                                                  
+30030Buscar en el campo:                               
+30031el valor:                                         
+30032VER INDICE                                        
+30033OCULTAR INDICE                                    
+30034Campo                                             
+30035no encontrado                                     
+30036¿Continuar la búsqueda?                           
+30037¡Encontado!                                       
+30038                                                  
+30039                                                  
+30040Configurar impresora                              
+30041Presentación preliminar                           
+30042Imprimir                                          
+30043Archivo destino                                   
+30044Ejecutar                                          
+30045Informe no encontrado                             
+30046Informe no disponible                             
+30047Impresora no preparada                            
+30048Listado terminado                                 
+30049Salir                                             
+30050                                                  
+30051                                                  
+30052                                                  
+30053                                                  
+30054                                                  
+30055                                                  
+30056                                                  
+30057                                                  
+30058                                                  
+30059                                                  
+30060                                                  
+30061Parametros de selecciión                          
+30062¿Desde que valor?                                 
+30063¿Hasta que valor?                                 
+30064                                                  
+30065                                                  
+30066                                                  
+30067                                                  
+30068                                                  
+30069                                                  
+30070                                                  
+30071Principio de fichero                              
+30072Final de Fichero                                  
+30073La ficha ha sido grabada                          
+30074¿Desea borrar esta ficha?                         
+30075¡ATENCION!                                        
+30076Han habido cambios. ¿Desea guardarlos?            
+30077¡CUIDADO!                                         
+30078                                                  
+30079                                                  
+30080                                                  
+30081Inicio                                            
+30082Rondas                                            
+30083Fin                                               
+30084                                                  
+30085                                                  
+30086Importacióm                                       
+30087Jogadors                                          
+30088Ausencias                                         
+30089Resultats                                         
+30090Emparejar                                         
+30091Manual                                            
+30092Informes                                          
+30093Normas                                            
+30094                                                  
+30095                                                  
+30096                                                  
+30097                                                  
+30098                                                  
+30099                                                  
+30100                                                  
+30101Torneig                                           
+30102Torneos                                           
+30103Desempatats                                       
+30104Copiar                                            
+30105Oubert                                            
+30106Cerrar                                            
+30107Actualizar                                        
+30108Codigo                                            
+30109Nombre                                            
+30110veces                                             
+30111Sub torneo                                        
+30112Rondes                                            
+30113                                                  
+30114Localita                                          
+30115Pais                                              
+30116Comienzo                                          
+30117Final                                             
+30118Sasiones                                          
+30119Primera                                           
+30120Segona                                            
+30121Arbitre                                           
+30122Emparejador                                       
+30123Cargo                                             
+30124Bloqueado                                         

@@ -1,0 +1,178 @@
+012 33 Open Andorra Hotel St.Gothard 
+022 Erts - La Massana
+032 AND
+042 2015/07/18
+052 2015/07/26
+062 166 (164)
+072 157
+092 Swiss System
+102 Juanjo Escribano Lasa (IA Id.22243976)
+112 Enrique Oiarzabal Iturrioz (IA Id.22236937) Oscar de la Riva (FA Id.6900224) Juberias Segura, Santiago (AN Id.2259826) fernando Montes de Santiago (AN Id 2286211).
+122 90 min + 30 seg. por jugada con control a los 40 movmientos + 30 min + 30 seg por jugada a "finis"
+132                                                                                        15/07/18  15/07/19  15/07/20  15/07/21  15/07/22  15/07/23  15/07/24  15/07/25  15/07/26
+001    1 m    Tkachiev,Vladislav                2661 FRA      618438 1973/00/00  6.5    7    82 b 1    44 w 1    20 b =    22 w 1    16 b 1    11 w =     2 b 0    18 w 1     8 b =  
+001    2 m    Granda Zuniga,Julio E             2652 PER     3800024 1967/00/00  8.0    1    83 w 1    43 b 1    21 w 1    15 b 1     5 w =     3 b 1     1 w 1     7 b =     9 w 1  
+001    3 m    Vovk,Yuri                         2632 UKR    14113171 1988/00/00  7.0    3    84 b 1    46 w 1    24 b 1    12 w 1    11 b =     2 w 0    23 b 1     5 b =     7 w 1  
+001    4 m    Iturrizaga Bonelli,Eduardo        2625 VEN     3901211 1989/00/00  7.0    5    85 w 1    45 b 1    27 w 1    17 b =     9 w =     5 b 0    35 w 1    36 b 1    21 w 1  
+001    5 m    Vovk,Andrey                       2621 UKR    14114470 1991/00/00  7.5    2    86 b 1    48 w 1    26 b 1    14 w 1     2 b =     4 w 1     8 b =     3 w =    19 w 1  
+001    6 m    Vazquez Igarza,Renier             2581 ESP     3503054 1979/00/00  6.0   18    87 w 1    47 b =    64 w 1    28 b 1    17 w =    19 b =    27 w 1    13 b 0    12 b =  
+001    7 m    Gozzoli,Yannick                   2567 FRA      616915 1983/00/00  6.0   17    89 b 1    50 w 1    32 b 1    16 w =    18 b =    24 w =    30 b 1     2 w =     3 b 0  
+001    8 m    Lagarde,Maxime                    2544 FRA      662399 1994/00/00  6.5    8    90 w 1    49 b 1    31 w =    30 b 1    33 w =    17 b 1     5 w =    21 b =     1 w =  
+001    9 m    Demuth,Adrien                     2531 FRA      642274 1991/00/00  6.5    9    91 b 1    52 w 1    34 b 1    18 w =     4 b =    32 w 1    11 b =    14 w 1     2 b 0  
+001   10 m    Arizmendi Martinez,Julen Luis     2529 ESP     2205092 1976/00/00  6.5   11    92 w 1    51 b 1    33 w =    31 b =    35 w 1    21 b =    36 w =    15 b =    28 b 1  
+001   11 m    Kogan,Artur                       2526 ISR     2800802 1974/00/00  7.0    4    94 b 1    54 w 1    36 b 1    19 w 1     3 w =     1 b =     9 w =    33 b 1    13 w =  
+001   12 m    Narciso Dublan,Marc               2521 ESP     2201500 1974/00/00  6.5   12    95 w 1    53 b 1    35 w 1     3 b 0    36 w =    33 b =    37 w 1    50 b 1     6 w =  
+001   13 m    Riff,Jean-Noel                    2502 FRA      611190 1981/00/00  7.0    6    96 b 0   124 w 1    86 b 1    38 w 1    40 b 1    18 w 1    34 b =     6 w 1    11 b =  
+001   14 m    Asis Gargatagli,Hipolito          2472 ESP     2260735 1986/00/00  6.0   20    97 w 1    55 b 1    37 w 1     5 b 0    41 w =    38 b 1    31 w 1     9 b 0    30 b =  
+001   15 m    Aloma Vidal,Robert                2451 ESP     2260409 1989/00/00  6.5   13    98 b 1    56 w 1    40 b 1     2 w 0    44 b 1    34 w 0    32 b 1    10 w =    38 b 1  
+001   16 m    Pulvett Marin,Daniel              2446 VEN     3900410 1991/00/00  6.5   14    99 w 1    57 b 1    39 w 1     7 b =     1 w 0    41 b 1    33 w 0    40 b 1    44 w 1  
+001   17 m    Kalegin,Evgenij                   2445 RUS     4103416 1954/00/00  6.0   21   100 b 1    58 w 1    42 b 1     4 w =     6 b =     8 w 0    50 b 0    71 w 1    37 b 1  
+001   18 m    Barbot,Pierre                     2445 FRA      663727 1995/00/00  5.5   31   101 w 1    59 b 1    41 w 1     9 b =     7 w =    13 b 0    39 w 1     1 b 0    49 w =  
+001   19 m    Abergel,Thal                      2440 FRA      614890 1982/00/00  6.5   10   102 b 1    61 w 1    71 b 1    11 b 0    49 w 1     6 w =    24 b 1    34 w 1     5 b 0  
+001   20 m    Bernal Moro,Luis Javier           2435 ESP     2200236 1971/00/00  5.5   34   103 w 1    62 b 1     1 w =    33 b 0    56 w 1    39 b =    51 w =    44 b 0   115 w 1  
+001   21 m    Antoli Royo,Joaquin Miguel        2430 ESP     2259532 1988/00/00  6.0   19   104 b 1    63 w 1     2 b 0    54 w 1    52 b 1    10 w =    45 b 1     8 w =     4 b 0  
+001   22 m    Loiseau,Quentin                   2429 FRA      665274 1995/00/00  6.0   26   105 w 1    64 b =    68 w 1     1 b 0    70 w =    59 b =    57 w 1    45 w 1    34 b =  
+001   23 m    Jerez Perez,Alfonso               2406 ESP     2204100 1971/00/00  6.0   27   106 b 1    65 w =    38 b 0   118 w 1    61 b 1    42 w 1     3 w 0    49 b =    39 w 1  
+001   24 m    Roser,Kevin                       2403 FRA      608688 1979/00/00  6.0   23   107 w 1    66 b 1     3 w 0    55 b 1    51 w 1     7 b =    19 w 0    59 b 1    33 w =  
+001   25 m    Mateo,Ramon                       2396 DOM     6400019 1958/00/00  0.0  165   108 b -  0000 - -  0000 - -  0000 - -  0000 - -  0000 - -  0000 - -  0000 - -  0000 - -  
+001   26 m    Brochet,Philippe                  2378 FRA      602469 1975/00/00  6.0   29   109 w 1    67 b 1     5 w 0    56 b =    64 w 1    45 b 0    65 w 1    51 b =    50 w 1  
+001   27 m    Berkovich,Mark A                  2376 ISR     2801639 1952/00/00  6.0   28   110 b 1    69 w 1     4 b 0    63 w 1    65 b =    71 w 1     6 b 0    48 w =    51 b 1  
+001   28 m    Sos Andreu,Eric                   2362 ESP    22247017 1993/00/00  5.5   39   111 w 1    68 b =    70 w 1     6 w 0    73 b =    60 w 1    58 b =    55 b 1    10 w 0  
+001   29 m    Massoni,Michael                   2360 FRA      654213 1992/00/00  2.0  153    81 b 1    71 w 0    91 b 1    65 w -  0000 - -  0000 - -  0000 - -  0000 - -  0000 - -  
+001   30 m    Diaz Camallonga,Carles            2358 ESP    22235256 1996/00/00  6.0   25   113 w 1    70 b =    78 w 1     8 w 0    68 b 1    47 b 1     7 w 0    64 b 1    14 w =  
+001   31 m    Trigo Urquijo,Sergio              2358 ESP     2262436 1989/00/00  6.0   24   114 b 1    73 w 1     8 b =    10 w =    71 b =    65 w 1    14 b 0    58 w =    52 b 1  
+001   32 f    Guichard,Pauline                  2353 FRA      639370 1988/00/00  5.0   46   115 w 1    72 b 1     7 w 0    57 b 1    79 w 1     9 b 0    15 w 0    67 b 1    62 w 0  
+001   33 m    Trepat Herranz,Joan               2351 ESP     2257459 1986/00/00  6.0   16   116 b 1    75 w 1    10 b =    20 w 1     8 b =    12 w =    16 b 1    11 w 0    24 b =  
+001   34 m    Jolly,Jean-Francois               2345 FRA      634751 1986/00/00  6.0   15   117 w +    74 b 1     9 w 0    62 b 1    80 w 1    15 b 1    13 w =    19 b 0    22 w =  
+001   35 m    Garcia,Jhoel                      2336 PER     3801110 1988/00/00  5.5   35   118 b 1    77 w 1    12 b 0    69 w 1    10 b 0    63 w 1     4 b 0    78 w 1    57 b =  
+001   36 f    Rudolf,Anna                       2335 HUN      722855 1987/00/00  6.0   22   119 w 1    76 b 1    11 w 0    66 b 1    12 b =    81 w 1    10 b =     4 w 0    58 b 1  
+001   37 m    Silva Rodriguez,Fernando          2305 ESP     2215268 1993/00/00  5.0   48   120 b 1    79 w 1    14 b 0    71 w 0    86 b 1    67 w 1    12 b 0    84 w 1    17 w 0  
+001   38 f    Congiu,Mathilde                   2303 FRA      634581 1989/00/00  5.5   37   121 w 1    78 b =    23 w 1    13 b 0    74 w 1    14 w 0    68 b 1    70 b 1    15 w 0  
+001   39 m    Laclau,Daniel                     2301 FRA      600989 1956/00/00  5.0   51   122 b 1    96 w 1    16 b 0    75 w =    78 b 1    20 w =    18 b 0    94 w 1    23 b 0  
+001   40 m    Garcia Trobat,Francisco           2273 ESP     2200678 1959/00/00  5.5   33   123 w 1    80 b 1    15 w 0    72 b 1    13 w 0    62 b =    69 w 1    16 w 0    65 b 1  
+001   41 m    Gomez Jurado,Luis Alberto         2272 ESP     2202107 1970/00/00  5.5   42   124 b 1   108 w 1    18 b 0    77 w 1    14 b =    16 w 0    71 b 0    79 w 1    66 b 1  
+001   42 m    Saucey,Michel                     2268 FRA      601845 1963/00/00  4.5   84   125 w 1   166 b 1    17 w 0    74 b =    83 w 1    23 b 0    70 w 0    81 b 0   108 w 1  
+001   43 m    Martinez Lopez,Ivan               2267 ESP     2219409 1978/00/00  1.0  162   126 b 1     2 w 0    93 b 0   116 w 0  0000 - -  0000 - -  0000 - -  0000 - -  0000 - -  
+001   44 m    Mingarro Carceller,Sergi          2264 ESP     2246678 1993/00/00  5.5   38   127 w 1     1 b 0    85 w 1    76 b 1    15 w 0    69 b =    73 w 1    20 w 1    16 b 0  
+001   45 f    Llaneza Vega,Patricia             2262 ESP     2212676 1979/00/00  5.5   32   128 b 1     4 w 0    94 b =    84 w 1    75 b 1    26 w 1    21 w 0    22 b 0    70 w 1  
+001   46 m    Serarols Mabras,Bernat            2260 ESP     2238276 1996/00/00  5.0   55   129 w 1     3 b 0    87 w 1    79 b 0    88 w 1    70 b =    75 w =    80 b =    81 w =  
+001   47 m    Sanchez Jimenez,Juan Carlos       2252 ESP     2206331 1966/00/00  5.0   60   131 b 1     6 w =    65 b =    81 w =    82 b 1    30 w 0    78 b =    98 w =    68 b =  
+001   48 m    Simon Padros,Emili                2229 ESP     2205580 1946/00/00  5.0   52   133 w 1     5 b 0    88 w 0   119 b 1    90 w =    83 b 1    76 w 1    27 b =  0000 - -  
+001   49 m    Sanchez Jerez,Emilio Miguel       2217 ESP     2256088 1984/00/00  5.5   41   134 b 1     8 w 0    96 b 1    93 w 1    19 b 0    73 w =    79 b 1    23 w =    18 b =  
+001   50 m    Romero Berruezo,Francisco         2198 ESP     2224500 1977/00/00  5.0   49   135 w 1     7 b 0    92 w 1    80 b 0    97 w 1    72 b 1    17 w 1    12 w 0    26 b 0  
+001   51 m    Gedajlovic,Max                    2178 CAN     2616840 2001/00/00  5.0   47   136 b 1    10 w 0   100 b 1   112 w 1    24 b 0    77 w 1    20 b =    26 w =    27 w 0  
+001   52 m    Romero Calduch,Sergio             2172 ESP     2246848 1996/00/00  5.0   50   137 w 1     9 b 0    99 w 1    88 b 1    21 w 0    76 b =    90 w =    75 b 1    31 w 0  
+001   53 m    Gelis,Dorian                      2166 FRA      624624 1985/00/00  4.5   76   138 b 1    12 w 0   102 b =    89 w 1    81 b 0    84 w 0   123 w 1    88 b =    93 b =  
+001   54 m    Garcia Paolicchi,Raul             2158 AND     6900020 1952/00/00  5.0   58   139 w 1    11 b 0   101 w 1    21 b 0    99 w 1  0000 - -    94 b =    82 w =    96 b 1  
+001   55 m    Fernandez Lopez,Joan              2143 AND     6900348 1989/00/00  5.0   53   140 b 1    14 w 0   104 b 1    24 w 0    93 b 1    79 w =    81 b 1    28 w 0    69 b =  
+001   56 m    Picart,Laurent                    2142 FRA      605778 1971/00/00  4.0   95   141 w 1    15 b 0   103 w 1    26 w =    20 b 0    89 w 0   108 b =   146 w 1    94 b 0  
+001   57 m    Nieves Cabanes,Javier             2141 ESP    22245707 1996/00/00  5.5   44   142 b 1    16 w 0   108 b 1    32 w 0    96 b 1   118 w 1    22 b 0   114 w 1    35 w =  
+001   58 m    Sanchez Dengra,Jose Maria         2137 ESP    22245391 1997/00/00  5.0   54   143 w 1    17 b 0   110 w =    90 b =   101 w 1    80 b 1    28 w =    31 b =    36 w 0  
+001   59 m    Orteu Capdevila,Max               2136 ESP    32075359 1999/00/00  4.5   73   144 b +    18 w 0   112 b 0   120 w 1    98 b 1    22 w =    82 b 1    24 w 0    71 b 0  
+001   60 m    Jose Queralto,Daniel              2134 AND     6900089 1973/00/00  4.5   74  0000 - -  0000 - -   139 w 1   115 b 1   103 w 1    28 b 0    97 w 1    90 b =    80 w 0  
+001   61 m    Quidiello Prado,Manuel Rogelio    2131 ESP     2213133 1969/00/00  5.0   63   145 w 1    19 b 0   111 w =    95 b 1    23 w 0    90 b 0   110 w 1    92 b =    97 w 1  
+001   62 m    Dubois,Pierre                     2112 FRA      673609 1990/00/00  6.0   30   146 b 1    20 w 0   114 b 1    34 w 0   108 b 1    40 w =    84 b =   118 w 1    32 b 1  
+001   63 f    Gil Quilez,Sonia                  2101 ESP     2263980 1989/00/00  4.0   91   147 w 1    21 b 0   113 w 1    27 b 0   105 w 1    35 b 0    99 w 1   115 b 0    90 w 0  
+001   64 m    Grollemund,Bertrand               2100 FRA      619523 1981/00/00  5.5   40   148 b 1    22 w =     6 b 0    94 w 1    26 b 0   102 w 1    89 b 1    30 w 0    98 b 1  
+001   65 m    Chargelegue,Thomas                2094 FRA    36000426 2002/00/00  4.5   72   149 w 1    23 b =    47 w =    29 b +    27 w =    31 b 0    26 b 0    89 w 1    40 w 0  
+001   66 m    Le Montagner,Yoann                2094 FRA      633720 1985/00/00  4.5   78   150 b 1    24 w 0   116 b 1    36 w 0   112 b =    94 w 0   119 b 1   100 w 1    41 w 0  
+001   67 m    Guennoun,Anthony                  2092 FRA      628816 1984/00/00  4.0   96   151 w 1    26 w 0   118 b 0   122 w 1   114 b 1    37 b 0   101 w 1    32 w 0   102 b 0  
+001   68 m    Lux,Hugo de Melo                  2081 BRA     2138298 2002/00/00  5.0   56   152 b 1    28 w =    22 b 0   102 w 1    30 w 0   104 b 1    38 w 0   103 b 1    47 w =  
+001   69 m    Globus,Or                         2080 ISR     2816776 2003/00/00  5.0   61   154 w 1    27 b 0   115 w 1    35 b 0   129 w 1    44 w =    40 b 0   109 b 1    55 w =  
+001   70 m    Vidal,Llewellyn                   2080 FRA    20661347 1992/00/00  4.5   75   155 b 1    30 w =    28 b 0   163 w 1    22 b =    46 w =    42 b 1    38 w 0    45 b 0  
+001   71 m    Cortes Jurado,Rafael              2073 ESP     2220270 1978/00/00  5.5   36   156 w 1    29 b 1    19 w 0    37 b 1    31 w =    27 b 0    41 w 1    17 b 0    59 w 1  
+001   72 m    Raggini,Lionel                    2071 FRA      624357 1979/00/00  4.0  100   157 b 1    32 w 0   120 b 1    40 w 0   116 b 1    50 w 0    98 b 0   107 w 1   106 b 0  
+001   73 m    Guyader,Thierry                   2059 FRA      622079 1972/00/00  4.0   98   158 w 1    31 b 0   119 w =   107 b 1    28 w =    49 b =    44 b 0   102 w =   114 b 0  
+001   74 m    Mas Recorda,Pere                  2052 ESP     2219476 1943/00/00  3.0  128   159 b 1    34 w 0   122 b 1    42 w =    38 b 0   106 w =   114 b 0  0000 - -  0000 - -  
+001   75 m    Krumm,Johannes                    2041 GER     4643747 1968/00/00  4.0   94   160 w 1    33 b 0   140 w 1    39 b =    45 w 0   112 b 1    46 b =    52 w 0  0000 - -  
+001   76 m    Anguera Maestro,Jaime             2040 ESP     2201577 1940/00/00  4.5   79   161 b 1    36 w 0   150 b 1    44 w 0   128 b 1    52 w =    48 b 0   131 w 1  0000 - -  
+001   77 m    Gutierrez Anso,Jose               2028 ESP     2273829 1954/00/00  4.0  107   162 w 1    35 b 0   141 w 1    41 b 0   140 w 1    51 b 0   109 w =   112 b =  0000 - -  
+001   78 m    Mateu Guiu,Esteve                 2028 AND    22270728 1992/00/00  4.0   90   163 b 1    38 w =    30 b 0   106 w 1    39 w 0   148 b 1    47 w =    35 b 0    95 w 0  
+001   79 m    Vlachos,Anatole                   2028 GRE    26093189 2002/00/00  4.5   83   164 w 1    37 b 0   165 w 1    46 w 1    32 b 0    55 b =    49 w 0    41 b 0   109 w 1  
+001   80 m    Caron,Damien                      2024 FRA      625620 1982/00/00  5.5   45   165 b 1    40 w 0   153 b 1    50 w 1    34 b 0    58 w 0   106 b 1    46 w =    60 b 1  
+001   81 m    Aiglon,Laurent                    2018 FRA      620297 1983/00/00  5.0   64    29 w 0   123 b 1   166 w 1    47 b =    53 w 1    36 b 0    55 w 0    42 w 1    46 b =  
+001   82 m    Cattaneo,Romain                   2016 FRA      650242 1987/00/00  5.0   68     1 w 0   125 b =   127 w 1   110 b 1    47 w 0   163 b 1    59 w 0    54 b =    99 w 1  
+001   83 m    Gonzalvez Perales,Jose Luis       2010 ESP     2256720 1967/00/00  4.5   77     2 b 0   126 w 1   163 b =   111 w 1    42 b 0    48 w 0   112 w 0   135 b 1   121 w 1  
+001   84 f    Dacalor,Aurelie                   1999 FRA      617083 1980/00/00  5.0   62     3 w 0   127 b =   125 w 1    45 b 0   110 w 1    53 b 1    62 w =    37 b 0   101 w 1  
+001   85 m    Prats Rodriguez,Juan Bosco        1994 ESP     2221411 1962/00/00  3.5  114     4 b 0   128 w 1    44 b 0   124 w 1   118 b 0   114 w 0   140 b 1   108 w =   122 b 0  
+001   86 m    Uriarte Prieto,Goyo               1993 ESP     2214407 1971/00/00  5.0   59     5 w 0   129 b 1    13 w 0   123 b 1    37 w 0   111 b 1   115 w 0   151 b 1   112 w 1  
+001   87 m    Iclicki,Willy                     1979 LIE      200450 1955/00/00  3.0  129     6 b 0   130 w 1    46 b 0   126 w =   111 b =   116 w 1   118 b 0   120 w -  0000 - -  
+001   88 m    Canonge,Lionel                    1975 FRA      614459 1978/00/00  5.0   65  0000 - -   131 w 1    48 b 1    52 w 0    46 b 0   120 w 1   146 b =    53 w =   118 b 1  
+001   89 f    Varela La Madrid,Maria            1966 VEN     3903346 1992/00/00  3.5  116     7 w 0   133 b =   149 w 1    53 b 0   119 w 1    56 b 1    64 w 0    65 b 0   128 w 0  
+001   90 m    Davies,Peter                      1953 WLS     1801171 1952/00/00  5.5   43     8 b 0   134 w =   138 b 1    58 w =    48 b =    61 w 1    52 b =    60 w =    63 b 1  
+001   91 m    Urena Casacuberta,Lluis           1939 ESP    22244026 1975/00/00  4.0  104     9 w 0   135 b 1    29 w 0   129 b 0   163 b 0   150 w 1   130 b 0   148 w 1   132 b 1  
+001   92 m    Rechi Perez,Francesc              1934 AND     6900330 1956/00/00  4.5   85    10 b 0   136 w 1    50 b 0   128 w 0   142 b =   154 b 1   121 w 1    61 w =   120 b =  
+001   93 m    Cemborain Oricain,Alfonso         1924 ESP     2274345 1965/00/00  4.5   80  0000 - -   137 b 1    43 w 1    49 b 0    55 w 0   115 b 0   141 w 1   111 b 1    53 w =  
+001   94 m    Marcos Herrero,Francisco          1920 ESP     2279045 1963/00/00  5.0   57    11 w 0   139 b 1    45 w =    64 b 0   121 w 1    66 b 1    54 w =    39 b 0    56 w 1  
+001   95 f    Broly,Mathilde                    1909 FRA    20682794 2000/00/00  5.0   71    12 b 0   138 w =   152 b 1    61 w 0   126 b =   122 w =   125 b =   116 w 1    78 b 1  
+001   96 m    Fernandez Mira,Alonso             1908 ESP    32018568 1999/00/00  4.0   93    13 w 1    39 b 0    49 w 0   135 b 1    57 w 0   123 b 0   143 w 1   129 b 1    54 w 0  
+001   97 m    Bouguerra,Tayeb                   1904 FRA      613681 1947/00/00  4.0  102    14 b 0   140 w 0   142 b 1   130 w 1    50 b 0   126 w 1    60 b 0   125 w 1    61 b 0  
+001   98 m    Sevillano Garcia,Joaquin          1897 ESP     2211068 1954/00/00  4.5   81    15 w 0   141 b 0   143 w 1   137 b 1    59 w 0   129 b 1    72 w 1    47 b =    64 w 0  
+001   99 m    Sevenyuk,Alexey                   1888 BLR    13504606 1944/00/00  4.0   97    16 b 0   142 w 1    52 b 0   131 w 1    54 b 0   128 w 1    63 b 0   130 w 1    82 b 0  
+001  100 m    Gonzalvez Tamarit,Ruben           1883 ESP    32041764 2002/00/00  4.5   86    17 w 0   143 b 1    51 w 0   140 b 0   136 w 1   135 b =   148 w 1    66 b 0   131 w 1  
+001  101 f    Eizaguerri Floris,Maria           1874 ESP    32065752 2004/00/00  4.0   99    18 b 0   146 w 1    54 b 0   136 w 1    58 b 0   130 w 1    67 b 0   132 w 1    84 b 0  
+001  102 f    Dubois,Marie                      1870 FRA    20643039 1995/00/00  5.0   67    19 w 0   145 b 1    53 w =    68 b 0   133 w 1    64 b 0   135 w 1    73 b =    67 w 1  
+001  103 f    Sanchez Dengra,Barbara            1869 ESP    22245383 1994/00/00  4.5   82    20 b 0   148 w 1    56 b 0   146 w 1    60 b 0   131 w =   122 b 1    68 w 0   163 b 1  
+001  104 m    Pignataro,Louis                   1865 FRA      636037 1946/00/00  4.0  109    21 w 0   147 b 1    55 w 0   141 b =   138 w 1    68 w 0   131 b 0   152 b 1   146 w =  
+001  105 m    Eyrard,Alain                      1849 FRA      693022 1949/00/00  4.0  112    22 b 0   150 w 0   145 b 1   153 w 1    63 b 0   146 w 0   132 b 0   142 b 1   133 w 1  
+001  106 m    Crnkovic,Predrag                  1847 SRB      975362 1962/00/00  5.0   70    23 w 0   149 b =   133 w 1    78 b 0   141 w 1    74 b =    80 w 0   123 b 1    72 w 1  
+001  107 m    Pampliega Canturri,Antoni         1844 ESP     2258030 1933/00/00  4.0  111    24 b 0   152 w =   134 b 1    73 w 0   148 b 0   127 w 1   163 w =    72 b 0   136 w 1  
+001  108 m    Dubreuil,Remy                     1840 FRA      616257 1940/00/00  3.5  115    25 w +    41 b 0    57 w 0   165 b 1    62 w 0   140 b =    56 w =    85 b =    42 b 0  
+001  109 m    Garcia-Blazquez Perez,Manuel      1825 ESP     2269937 1977/00/00  3.5  118    26 b 0   153 w 0   146 b 0   149 b 1   137 w 1   132 w 1    77 b =    69 w 0    79 b 0  
+001  110 m    Tardio Fran,Emilio                1825 ESP     2222116 1950/00/00  3.0  127    27 w 0   151 b 1    58 b =    82 w 0    84 b 0   133 w 1    61 b 0   163 w =   130 b 0  
+001  111 f    Guillo Longares,Cecilia           1822 ESP    32082681 2004/00/00  4.0  105    28 b 0   155 w 1    61 b =    83 b 0    87 w =    86 w 0   145 b 1    93 w 0   134 b 1  
+001  112 m    Alvarez Albiol,Victor             1819 ESP    32065930 2003/00/00  4.0  101  0000 - -   154 b 1    59 w 1    51 b 0    66 w =    75 w 0    83 b 1    77 w =    86 b 0  
+001  113 m    Mora Amella,Joan                  1818 ESP     2267446 1942/00/00  2.0  154    30 b 0   157 w 1    63 b 0   150 w 1  0000 - -  0000 - -  0000 - -  0000 - -  0000 - -  
+001  114 m    Aiglon,Nicolas                    1805 FRA      635278 1980/00/00  5.0   69    31 w 0   156 b 1    62 w 0   166 b 1    67 w 0    85 b 1    74 w 1    57 b 0    73 w 1  
+001  115 m    Attard,Leopold                    1802 FRA    26042380 2001/00/00  5.0   66    32 b 0   159 w 1    69 b 0    60 w 0   145 b 1    93 w 1    86 b 1    63 w 1    20 b 0  
+001  116 m    Elizondo,Marquet Juan Marcos      1802 ESP     2252236 1966/00/00  4.0  110    33 w 0   158 b 1    66 w 0    43 b 1    72 w 0    87 b 0   147 w 1    95 b 0   138 w 1  
+001  117 m    Molina Cabaleiro,Juan Jose        1781 ESP     2299909 1970/00/00  3.0  126    34 b -  0000 - -   147 w 1  0000 - -   146 b -  0000 - -   156 b 1   143 w 1  0000 - -  
+001  118 m    Dupy,Lucas                        1763 FRA    20619898 1985/00/00  4.0   92    35 w 0   160 b 1    67 w 1    23 b 0    85 w 1    57 b 0    87 w 1    62 b 0    88 w 0  
+001  119 m    Diaz Narvaez,Jose                 1760 ESP     2269279 1943/00/00  2.5  144    36 b 0   161 w 1    73 b =    48 w 0    89 b 0   138 b 1    66 w 0   128 w 0   148 b 0  
+001  120 m    Jean,Ludovic                      1758 FRA    36020664 1973/00/00  4.5   88    37 w 0   162 b 1    72 w 0    59 b 0   143 w 1    88 b 0   149 w 1    87 b +    92 w =  
+001  121 f    Estevez Sacristan,Deva            1754 ESP    32041101 2004/00/00  3.5  119    38 b 0   163 w 0   148 b =   134 w 1    94 b 0   139 w 1    92 b 0   140 w 1    83 b 0  
+001  122 m    Chargelegue,Laurent               1740 FRA    36064840 1969/00/00  4.5   89    39 w 0   164 b 1    74 w 0    67 b 0   147 w 1    95 b =   103 w 0   154 b 1    85 w 1  
+001  123 m    Gonzalvez Tamarit,Ivan            1739 ESP    32041721 2000/00/00  4.0  106    40 b 0    81 w 0   155 b 1    86 w 0   150 b 1    96 w 1    53 b 0   106 w 0   139 w 1  
+001  124 m    Gorgues Valle,Jose Maria          1739 AND     6900011 1945/00/00  2.5  146    41 w 0    13 b 0   151 w 1    85 b 0   154 w 0   141 b =   138 w =   149 b =  0000 - -  
+001  125 m    De Mendizabal Vega,Raul           1720 ESP    22286489 1977/00/00  3.5  121    42 b 0    82 w =    84 b 0   138 w 0   153 b 1   142 w 1    95 w =    97 b 0   141 w =  
+001  126 f    Bertrand,Meryl                    1699 FRA      603007 1996/00/00  2.0  155    43 w 0    83 b 0   154 w 1    87 b =    95 w =    97 b 0   151 w -  0000 - -  0000 - -  
+001  127 m    Pantebre Martinez,Benet           1689 AND     6900429 1929/00/00  3.0  135    44 b 0    84 w =    82 b 0   148 w 0   155 b 1   107 b 0   152 w 0   160 b =   154 w 1  
+001  128 m    Clanchet Olle,Josep               1675 ESP     2264358 1984/00/00  4.5   87    45 w 0    85 b 0   156 w 1    92 b 1    76 w 0    99 b 0   154 w =   119 b 1    89 b 1  
+001  129 m    Gras Travesset,Ferran             1675 AND     6900526 1996/00/00  4.0  108    46 b 0    86 w 0   157 b 1    91 w 1    69 b 0    98 w 0   153 b 1    96 w 0   151 b 1  
+001  130 m    Elguezabal Selioutin,Dario        1672 ESP    32010052 2001/00/00  4.0  113  0000 - -    87 b 0   158 w 1    97 b 0   151 w 1   101 b 0    91 w 1    99 b 0   110 w 1  
+001  131 m    Mercier,Pierre                    1665 FRA      635863 1938/00/00  3.5  124    47 w 0    88 b 0   162 w 1    99 b 0   165 w 1   103 b =   104 w 1    76 b 0   100 b 0  
+001  132 m    Lloveras Hernanz,Jose Antonio     1661 ESP     2290413 1953/00/00  3.0  134  0000 - -  0000 - -  0000 - -   156 b 1   166 w 1   109 b 0   105 w 1   101 b 0    91 w 0  
+001  133 m    Moscoso Rodriguez,Joan            1659 AND     6900100 1954/00/00  3.0  132    48 b 0    89 w =   106 b 0   152 w 1   102 b 0   110 b 0   142 w =   145 w 1   105 b 0  
+001  134 m    Giro Castellet,Esteve             1647 ESP    22234136 1972/00/00  3.0  136    49 w 0    90 b =   107 w 0   121 b 0   149 w =   151 b 0   158 w 1   147 b 1   111 w 0  
+001  135 m    Potratz,Yannick                   1639 FRA    26042800 2001/00/00  3.5  125    50 b 0    91 w 0   159 b 1    96 w 0   164 b 1   100 w =   102 b 0    83 w 0   153 b 1  
+001  136 m    Nerino Escoubet,Nicolas           1618 FRA    20668821 1992/00/00  3.0  140    51 w 0    92 b 0   164 w 1   101 b 0   100 b 0   153 w 0   161 b 1   150 w 1   107 b 0  
+001  137 m    Lepeigneux,Jean-Jacques           1608 FRA    20668813 1991/00/00  3.0  138    52 b 0    93 w 0   161 b 1    98 w 0   109 b 0   156 w =   139 b =   153 w =   149 b =  
+001  138 m    Brochet,Thierry                   1604 FRA      650714 1944/00/00  3.0  131    53 w 0    95 b =    90 w 0   125 b 1   104 b 0   119 w 0   124 b =   155 w 1   116 b 0  
+001  139 m    Arias Velasco,Jose                1600 ESP     2219930 1934/00/00  3.0  133    54 b 0    94 w 0    60 b 0   155 w =   152 b 1   121 b 0   137 w =   157 w 1   123 b 0  
+001  140 m    Chopinaud,Francis                 1581 FRA    36051209 1955/00/00  3.5  122    55 w 0    97 b 1    75 b 0   100 w 1    77 b 0   108 w =    85 w 0   121 b 0   152 w 1  
+001  141 m    Linares Andres,Antonio            1574 ESP    22225170 1968/00/00  3.5  123    56 b 0    98 w 1    77 b 0   104 w =   106 b 0   124 w =    93 b 0   164 w 1   125 b =  
+001  142 f    Galera Serra,Maria                1540 AND     6900283 1998/00/00  2.5  149    57 w 0    99 b 0    97 w 0   158 b 1    92 w =   125 b 0   133 b =   105 w 0   150 b =  
+001  143 f    Saucey,Milena                     1520 FRA    20608756 1997/00/00  3.0  130    58 b 0   100 w 0    98 b 0   157 w 1   120 b 0   161 w 1    96 b 0   117 b 0   155 w 1  
+001  144 m    Arques Rubio,Daniel               1503 AND     6900720 2001/00/00  0.0  166    59 w -  0000 - -  0000 - -  0000 - -  0000 - -  0000 - -  0000 - -  0000 - -  0000 - -  
+001  145 m    Sorini,Gilbert                    1477 FRA    20609159 1940/00/00  3.0  139    61 b 0   102 w 0   105 w 0   162 b 1   115 w 0   165 b 1   111 w 0   133 b 0   160 w 1  
+001  146 m    Riba Revert,Valenti               1466 AND     6900364 2000/00/00  4.0  103    62 w 0   101 b 0   109 w 1   103 b 0   117 w +   105 b 1    88 w =    56 b 0   104 b =  
+001  147 m    Porte,Jacques                     1446 FRA      664847 1933/00/00  3.0  141    63 b 0   104 w 0   117 b 0   159 w 1   122 b 0   157 w 1   116 b 0   134 w 0   164 b 1  
+001  148 m    Damofli,Clement                   1433 FRA    26061597 1991/00/00  3.5  120    64 w 0   103 b 0   121 w =   127 b 1   107 w 1    78 w 0   100 b 0    91 b 0   119 w 1  
+001  149 m    Esteoule,Guy                      1421 FRA      604380 1943/00/00  3.0  142    65 b 0   106 w =    89 b 0   109 w 0   134 b =   164 w 1   120 b 0   124 w =   137 w =  
+001  150 m    Jonker,Jan                        1409 FRA      664413 1934/00/00  2.5  148    66 w 0   105 b 1    76 w 0   113 b 0   123 w 0    91 b 0   159 w 1   136 b 0   142 w =  
+001  151 m    Leost,Joel                        1398 FRA      606057 1955/00/00  3.0  137    67 b 0   110 w 0   124 b 0   160 w 1   130 b 0   134 w 1   126 b +    86 w 0   129 w 0  
+001  152 m    De Mendizabal Gijon,Raul          1393 ESP    32092334 2004/00/00  2.5  150    68 w 0   107 b =    95 w 0   133 b 0   139 w 0   166 b 1   127 b 1   104 w 0   140 b 0  
+001  153 m    Alvarez Albiol,Daniel             1363 ESP    32099223 2005/00/00  2.5  147  0000 - -   109 b 1    80 w 0   105 b 0   125 w 0   136 b 1   129 w 0   137 b =   135 w 0  
+001  154 m    Alcon Llosada,Alex                1302 AND     6900780 2003/00/00  2.5  145    69 b 0   112 w 0   126 b 0   161 w 1   124 b 1    92 w 0   128 b =   122 w 0   127 b 0  
+001  155 m    Vazquez Rodriguez,Francisco       1301 ESP    24532495 2006/00/00  2.0  156    70 w 0   111 b 0   123 w 0   139 b =   127 w 0   158 b =   165 w 1   138 b 0   143 b 0  
+001  156 m    Ribera Veganzones,Josep Maria     1276 AND     6900763 2003/00/00  1.5  159    71 b 0   114 w 0   128 b 0   132 w 0   159 b 1   137 b =   117 w 0  0000 - -  0000 - -  
+001  157 m    Alcon Llosada,Jaume               1248 AND     6900798 2006/00/00  3.0  143    72 w 0   113 b 0   129 w 0   143 b 0   162 w 1   147 b 0   166 w 1   139 b 0   158 w 1  
+001  158 m    Alcon Beltran,Alfred                 0 AND     6901069 1968/00/00  1.5  160    73 b 0   116 w 0   130 b 0   142 w 0   160 b =   155 w =   134 b 0   161 w =   157 b 0  
+001  159 f    De la Riva Real,Ariadna              0 AND     6901018 2005/00/00  1.5  161    74 w 0   115 b 0   135 w 0   147 b 0   156 w 0  0000 - +   150 b 0   165 w =   161 b 0  
+001  160 m    Genis Traveria,Ferran                0 ESP    24519707 1978/00/00  2.0  158    75 b 0   118 w 0  0000 - -   151 b 0   158 w =   162 b 1  0000 - -   127 w =   145 b 0  
+001  161 m    Giron Herranz,Juan                   0 ESP    24562602 2003/00/00  2.5  152    76 w 0   119 b 0   137 w 0   154 b 0  0000 - +   143 b 0   136 w 0   158 b =   159 w 1  
+001  162 f    Kogan Plachkinova,Carolina           0 ESP    24544060 2004/00/00  1.0  164    77 b 0   120 w 0   131 b 0   145 w 0   157 b 0   160 w 0   164 b 0  0000 - +   165 b 0  
+001  163 m    Mabres Torello,Josep                 0 ESP    24561550 1943/00/00  3.5  117    78 w 0   121 b 1    83 w =    70 b 0    91 w 1    82 w 0   107 b =   110 b =   103 w 0  
+001  164 m    Martinez Gamiz,Marc                  0 AND     6900976 2005/00/00  2.0  157    79 b 0   122 w 0   136 b 0  0000 - +   135 w 0   149 b 0   162 w 1   141 b 0   147 w 0  
+001  165 m    Navarro Mignorance,Ernest            0 AND     6900607 1955/00/00  2.5  151    80 w 0  0000 - +    79 b 0   108 w 0   131 b 0   145 w 0   155 b 0   159 b =   162 w 1  
+001  166 m    Ribera Veganzones,Serni              0 AND     6900860 2007/00/00  1.0  163  0000 - +    42 w 0    81 b 0   114 w 0   132 b 0   152 w 0   157 b 0  0000 - -  0000 - -  

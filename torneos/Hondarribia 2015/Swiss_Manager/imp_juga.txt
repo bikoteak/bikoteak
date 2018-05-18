@@ -1,0 +1,45 @@
+No;FIDE Id;NombreCompleto;Fed;Titulo;FNac;Sex;FIDE
+1;2200830;Cruz-Lopez Claret, Carlos;ESP;FM;1966;m;2304
+2;2254263;Serras Uria, Antonio;ESP;;1963;m;2234
+3;2214024;Mayo Martinez, Manuel;ESP;;1967;m;2195
+4;2212480;Ugalde Ezcurra, Jose Miguel;ESP;;1972;m;2183
+5;2207435;Olaizola Ortega, Luis;ESP;;1966;m;2134
+6;22242244;Jimenez Almeida, Luis David;ESP;;1996;m;2132
+7;2217562;Dominguez Ofretorio, Javier;ESP;;1969;m;2126
+8;2225883;Torres Ganuza, Francisco Javier;ESP;;1963;m;2097
+9;2255812;Tornay Gomez, Josu;ESP;;1971;m;2079
+10;2212870;Vinal Gutierrez, Pedro;ESP;;1952;m;2067
+11;2201836;Lakunza Oyarbide, Juan Carlos;ESP;;1961;m;2062
+12;2278871;Galarza Cenzano, Inigo;ESP;;1984;m;2025
+13;2214407;Uriarte Prieto, Goyo;ESP;;1971;m;1993
+14;2269473;Iraola Iraola, Unai;ESP;;1975;m;1969
+15;32044836;Arrese-Igor Sanchez, Cesareo;ESP;;1962;m;1964
+16;22200185;Nogues Fernandez, Ramon;ESP;;1968;m;1902
+17;2276658;Alvarado Fernandez, Mikel;ESP;;1974;m;1874
+18;32020619;Carrascal Rosal, Alberto;ESP;;1976;m;1871
+19;2226960;Zubia Aramburu, Mikel;ESP;;1955;m;1793
+20;32050496;Urkia Imaz, Garikoitz;ESP;;1975;m;1729
+21;32074336;Iturralde Echeverria, Ivan;ESP;;2003;m;1621
+22;24540781;Tafall Villanueva, Ander;ESP;;2002;m;1612
+23;2242761;Donazar Garayoa, Miguel;ESP;;1946;m;1603
+24;24516341;Reguillaga Elias, Manex;ESP;;2005;m;1601
+25;2264846;Arrondo Carbonell, Pablo;ESP;;1985;m;1685
+26;32009712;Zuniga Arraras, Marina;ESP;;1999;w;1564
+27;32072040;Arrese-Igor Royuela, Alex;ESP;;1998;m;1554
+28;2265656;Parron Luceno, David;ESP;;1972;m;1537
+29;2278294;Moreiro Sanchez, Silvestre;ESP;;1939;m;1509
+30;24516350;Aramendia Ybarra, Carlota;ESP;;2005;w;1376
+31;16205758;Tornay, Haizea;GER;;2003;w;1269
+32;24539074;Abdula Boisteanu, Cristina;ESP;;2003;w;1169
+33;24536954;Caballero Acosta, Erlantz;ESP;;2002;m;1153
+34;24543390;Eguaras Marquinez, Unai;ESP;;2004;m;1106
+35;0;Fernandez Arribas, Joseba;ESP;;1965;m;0
+36;22254129;Garcia Tajada, Fernando;ESP;;1966;m;0
+37;0;Hoyos Fernandez, Fernando;ESP;;1964;m;0
+38;0;Lopez Garcia, Patxi;ESP;;1948;m;0
+39;0;Pereira Varela, Juan Antonio;ESP;;1975;m;0
+40;0;Sanchez Conejer, Julian;ESP;;1966;m;0
+41;0;Tafall Soreasu, Mikel;ESP;;1975;m;0
+42;16205740;Tornay, Aritz;GER;;2007;m;0
+43;0;Urroz Lopez, Julia;ESP;;1964;w;0
+44;22292543;Zuniga Catalan, Pablo;ESP;;1971;m;0

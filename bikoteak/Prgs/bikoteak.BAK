@@ -1,0 +1,44 @@
+* Quitamos cualquier mensaje en pantalla
+set talk off
+* Limpiamos la pantalla, cerramos todo y liberamos la memoria
+clear
+close all
+clear all
+* Se crean dos variables públicas, una destinada a ser el
+* objeto de la clase entorno y otra que nos servirá para que
+* se ejecuten o no ciertas partes de la aplicación dependiendo
+* de si estamos creando el .APP o el .EXE
+public oapp,ejecutable
+ejecutable = .f.
+* Incluimos variables de mensajes para internacionalizar el programa
+public array msg(1000,1)
+* Establecemos la biblioteca de clases con la que vamos a
+* funcionar en nuestra aplicación. Aquí podemos especificar
+* las bibliotecas que queramos
+set classlib to clases\misclas
+SET CLASSLIB to clases\_movers additive
+* Creamos el objeto oapp partiendo de la clase no visual
+* entorno que deberemos tener creada
+oapp = createobject("entorno")
+* Una vez creado el entorno pueden ser llamadas sus propiedades
+* y métodos. Por tanto ejecutamos el método setup que 
+* configura el entorno
+oapp.setup
+* Llamamos al menú principal que permanecerá en pantalla
+* durante toda la aplicación y activamos el estado de espera
+* mediante read events, lo que permite que se quede el menú
+* hasta que elijamos la opción concluir, en la cual pondremos
+* un clear events
+do menus\bikoteak.mpr
+do menus\ventanas.mpr
+read events
+* cuando el usuario haya decidido salir deberemos restaurar el
+* entorno visual foxpro si no estamos haciendo el exe
+if not ejecutable
+   oapp.cleanup
+endif
+* Cerramos todo y limpiamos la memoria
+close all
+release all extended
+clear
+clear all

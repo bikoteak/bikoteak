@@ -1,0 +1,84 @@
+*       *********************************************************
+*       *                                                         
+*       * 03-12-03            BIKOTEAK.MPR              05:09:49  
+*       *                                                         
+*       *********************************************************
+*       *                                                         
+*       * Juanjo Escribano Lasa                                   
+*       *                                                         
+*       * Copyright (C) 2003 Nombre de compañía                   
+*       * Chofre 5 2º A                                           
+*       * Donostia,     20001                                     
+*       * País                                              
+*       *                                                         
+*       * Descripción:                                            
+*       * Este PROGRAMA lo ha generado automáticamente GENMENU.    
+*       *                                                         
+*       *********************************************************
+
+
+*       *********************************************************
+*       *                                                         
+*       *                    Definición de menú                   
+*       *                                                         
+*       *********************************************************
+*
+
+SET SYSMENU TO
+SET SYSMENU AUTOMATIC
+
+DEFINE PAD Txapelketa OF _MSYSMENU PROMPT "&msg(101)" COLOR SCHEME 3
+DEFINE PAD Hizkuntza OF _MSYSMENU PROMPT "Languages" COLOR SCHEME 3 ;
+	SKIP FOR not empty(wontop())
+DEFINE PAD Hasiera OF _MSYSMENU PROMPT "&msg(020)" COLOR SCHEME 3
+DEFINE PAD Txandak OF _MSYSMENU PROMPT "&msg(020)" COLOR SCHEME 3
+DEFINE PAD Bukaera OF _MSYSMENU PROMPT "&msg(020)" COLOR SCHEME 3
+DEFINE PAD Laguntza OF _MSYSMENU PROMPT "&msg(020)" COLOR SCHEME 3
+
+ON PAD Txapelketa OF _MSYSMENU ACTIVATE POPUP torneo
+ON SELECTION PAD Hizkuntza OF _MSYSMENU do form forms\hizkuntzak
+ON PAD Hasiera OF _MSYSMENU ACTIVATE POPUP comienzo
+ON PAD Txandak OF _MSYSMENU ACTIVATE POPUP rondas
+ON PAD Bukaera OF _MSYSMENU ACTIVATE POPUP final
+ON PAD Laguntza OF _MSYSMENU ACTIVATE POPUP ayuda
+
+DEFINE POPUP torneo MARGIN RELATIVE SHADOW COLOR SCHEME 4
+DEFINE BAR 1 OF torneo PROMPT "&msg(102)" ;
+	SKIP FOR wexist("Txapelketak")
+DEFINE BAR 2 OF torneo PROMPT "\<Backup"
+DEFINE BAR 3 OF torneo PROMPT "&msg(106)" ;
+	SKIP FOR not empty(wontop()) ;
+	MESSAGE "Sale del programa"
+ON SELECTION BAR 1 OF torneo do form forms\txapelketak
+ON SELECTION BAR 3 OF torneo clear events
+
+DEFINE POPUP comienzo MARGIN RELATIVE SHADOW COLOR SCHEME 4
+DEFINE BAR 1 OF comienzo PROMPT "Importación"
+DEFINE BAR 2 OF comienzo PROMPT "Jugadores"
+DEFINE BAR 3 OF comienzo PROMPT "Ausencias"
+*ON SELECTION BAR 1 OF comienzo do form forms\txapelketak
+*ON SELECTION BAR 2 OF comienzo do form forms\txapelketak
+*ON SELECTION BAR 3 OF comienzo clear events
+
+DEFINE POPUP rondas MARGIN RELATIVE SHADOW COLOR SCHEME 4
+DEFINE BAR 1 OF rondas PROMPT "Resultados"
+DEFINE BAR 2 OF rondas PROMPT "Dirigido"
+DEFINE BAR 3 OF rondas PROMPT "Emparejar"
+DEFINE BAR 4 OF rondas PROMPT "Manual"
+DEFINE BAR 5 OF rondas PROMPT "Imprimir"
+*ON SELECTION BAR 1 OF rondas do form forms\txapelketak
+*ON SELECTION BAR 2 OF rondas do form forms\txapelketak
+*ON SELECTION BAR 3 OF rondas clear events
+
+DEFINE POPUP final MARGIN RELATIVE SHADOW COLOR SCHEME 4
+DEFINE BAR 1 OF final PROMPT "Normas"
+DEFINE BAR 2 OF final PROMPT "Elo"
+*ON SELECTION BAR 1 OF final do form forms\txapelketak
+*ON SELECTION BAR 2 OF final do form forms\txapelketak
+
+DEFINE POPUP ayuda MARGIN RELATIVE SHADOW COLOR SCHEME 4
+DEFINE BAR 1 OF ayuda PROMPT "&msg(021)"
+DEFINE BAR 2 OF ayuda PROMPT "&msg(008)"
+DEFINE BAR 3 OF ayuda PROMPT "\-"
+DEFINE BAR 4 OF ayuda PROMPT "&msg(022)"
+ON SELECTION BAR 4 OF ayuda do form forms\acercade

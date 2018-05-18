@@ -1,0 +1,275 @@
+close databases
+select 0
+use torneo
+select 0
+use sub_torn
+select 0
+use control
+dimension paises(torneo.num_rondas,2)
+select 0
+use normando
+zap
+set order to tag(1)
+select 0
+use normas
+set order to tag(1)
+select 0
+use altaelo
+select 0
+use resultad
+set order to tag("resultado")
+select 0
+use federaci
+set order to tag("federacion")
+select 0
+use federaci again alias federac2
+set order to tag("federacion")
+select 0
+use jugadore alias segundo
+set order to tag("num_lista")
+set relation to federacion into federac2
+select 0
+use cuadro
+set order to tag("jugador")
+set relation to jug_num2 into segundo
+set relation to resultado into resultad additive
+select 0
+use jugadore again
+set order to tag("num_lista")
+set relation to federacion into federaci
+set relation to str(num_lista,3) into cuadro additive
+do while not eof() and jugadore.categoria = "GM"
+   skip
+enddo
+do while not eof()
+   suma_res = 0
+   num_elados = 0
+   sum_elos = 0
+   num_mfide = 0
+   num_mfidew = 0
+   num_maes = 0
+   num_gran = 0
+   num_maesw = 0
+   num_granw = 0
+   num_partid = 0
+   num_fed = 0
+   otra_fed = 0
+   no1_fed = 0
+   elo_min1 = 9999
+   elo_min2 = 9999
+   elo_min = 9999
+   for i = 1 to torneo.num_rondas
+      paises(i,1) = space(3)
+      paises(i,2) = 0
+   endfor
+   select cuadro
+   i = 1
+   do while not eof() and cuadro.jug_num1 = jugadore.num_lista
+*      IF jugadore.num_lista = 32 OR jugadore.num_lista = 34
+*         SET DEBUG on
+*         SET STEP ON
+*      endif
+      if cuadro.jug_num2 <> 0 and cuadro.resultado < 3
+         suma_res = suma_res + resultad.ptos_blan
+         if federaci.pais <> federac2.pais
+            otra_fed = otra_fed + 1
+         endif
+         for j = 1 to torneo.num_rondas
+            if paises(j,1) = space(3) or paises(j,1) = federac2.pais
+               paises(j,1) = federac2.pais
+               paises(j,2) = paises(j,2) + 1
+               exit
+            endif
+         endfor
+         num_partid = num_partid + 1
+         do case
+            case segundo.categoria = "FM"
+               num_mfide = num_mfide + 1
+            case segundo.categoria = "IM"
+               num_maes = num_maes + 1
+            case segundo.categoria = "GM"
+               num_gran = num_gran + 1
+            case segundo.categoria = "WFM"
+               num_mfidew = num_mfidew + 1
+            case segundo.categoria = "WIM"
+               num_maesw = num_maesw + 1
+            case segundo.categoria = "WGM"
+               num_granw = num_granw + 1
+         endcase
+*         anterior = elo_min2
+*         elo_min2 = min(elo_min2,segundo.elo_fide)
+*         if anterior <> elo_min2
+*           elo_min1 = anterior
+*         else
+*            elo_min1 = min(elo_min1,segundo.elo_fide)
+*         endif
+         elo_min = min(elo_min,segundo.elo_fide)
+         sum_elos = sum_elos + segundo.elo_fide
+         num_elados = num_elados + iif(segundo.elo_fide > 0,1,0)
+      endif
+      skip
+      i = i + 1
+   enddo
+   no1_fed = paises(1,2)
+   for j = 2 to torneo.num_rondas
+      if num_fed = 0 and paises(j,1) = space(3)
+         num_fed = j - 1
+      endif
+      no1_fed = max(no1_fed,paises(j,2))
+   endfor
+   no1_fed = num_partid - no1_fed
+   max_no_elo = redondeo(num_partid,22)
+   req_elo = num_partid - max_no_elo
+   if num_partid > 8 and num_elados >= req_elo
+***************************************************************************
+* candidatos a normas
+***************************************************************************
+      select normas
+      goto top
+      do while not eof()
+***************************************************************************
+* Control para chicas
+***************************************************************************
+         if normas.sexo = "w"
+            if jugadore.sexo <> "w"
+               skip
+               loop
+            endif
+            IF jugadore.categoria = "IM" .or. jugadore.categoria = "GM" .or. jugadore.categoria = "WGM" 
+               skip
+               loop
+            endif
+         ELSE
+            IF jugadore.categoria = "IM" AND normas.tipo_norma = "m"
+               skip
+               loop
+            ENDIF
+         endif
+***************************************************************************
+* Control general
+***************************************************************************
+         sum_elo_co = sum_elos
+*         if elo_min2 < normas.elo_min_co
+*            sum_elo_co = sum_elo_co - elo_min2 + normas.elo_min_co
+*            if elo_min1 < normas.elo_min_co
+*               sum_elo_co = sum_elo_co - elo_min1 + normas.elo_min_co
+*            endif
+*         endif
+         if elo_min < normas.elo_min_co
+            sum_elo_co = sum_elo_co - elo_min + normas.elo_min_co
+         endif
+         media_elo = int(sum_elo_co/num_partid + .5)
+         porcen = int(suma_res * 100 / num_partid +.5)
+         select altaelo
+         goto iif(porcen < 51,porcen, 100 - porcen)
+         performanc = media_elo + iif(porcen < 51,0-altaelo.diferencia,altaelo.diferencia)
+**********************************
+*  Control de norma
+**********************************
+         norma = .t.
+**********************************
+*  Control de media minima
+**********************************
+         if media_elo < normas.elo_minimo
+            norma = .f.
+         endif
+**********************************
+*  Control de performance
+**********************************
+         if performanc < normas.performan + 1
+            norma = .f.
+         endif
+**********************************
+*  Control de federaciones
+**********************************
+         if torneo.cont_fed
+            if num_fed < 3
+               norma = .f.
+            endif
+            if jugadore.federacion = control.fed_host
+               otras_fed = redondeo(num_partid,40)
+               if otras_fed > otra_fed
+                  norma = .f.
+               endif
+            else
+               otras_fed = redondeo(num_partid,33)
+               if otras_fed > otra_fed
+                  norma = .f.
+               endif
+               no1s_fed = redondeo(num_partid,22)
+               if no1s_fed > no1_fed
+                  norma = .f.
+               endif
+            endif
+         endif
+**********************************
+*  Control de titulos
+**********************************
+         if num_mfide + num_maes + num_gran + num_mfidew + num_maesw + num_granw <;
+            int((num_partid + 1)/2)
+            norma = .f.
+         endif
+         if normas.tipo_norma = "g" and normas.sexo <> "w" and num_gran < 3
+            norma = .f.
+         endif
+         if normas.tipo_norma = "m" and normas.sexo <> "w" and num_gran < 2 and;
+            num_gran + num_maes < 3
+            norma = .f.
+         endif
+         if normas.tipo_norma = "wg" and normas.sexo = "w" and num_gran < 2 and;
+            num_gran + num_maes + num_mfide + num_granw < 3
+            norma = .f.
+         endif
+         if normas.tipo_norma = "wm" and normas.sexo = "w" and num_granw < 3 and;
+            num_gran + num_maes + num_mfide + num_granw < 2
+            norma = .f.
+         endif
+**********************************
+*  Norma
+**********************************
+         if norma
+            select normando
+            append blank
+            replace num_lista with jugadore.num_lista,num_partid with m.num_partid,;
+               suma_res with m.suma_res,num_elados with m.num_elados,categoria with normas.tipo_norma,;
+               sexo with iif(normas.sexo <> "w","m","w"), performanc with m.performanc
+            replace elo_min1 with m.elo_min1,elo_min2 with m.elo_min2,num_fed with m.num_fed,;
+                    elados with num_elados,otra_fed with m.otra_fed,no1_fed with m.no1_fed,;
+                    gm with num_gran,im with num_maes,wgm with num_granw,wim with num_maesw;
+                    fm with num_mfide,wfm with num_mfidew
+            replace elo_med_co with media_elo, cod_norma with normas.cod_norma
+         endif
+         select normas
+         skip
+      enddo
+   endif
+   select jugadore
+   skip
+   do while not eof() and jugadore.categoria = "GM"
+      skip
+   enddo
+enddo
+set near on
+select normando
+BROWSE
+PACK
+GOTO top
+set relation to categoria into normas
+select cuadro
+set relation to str(jug_num1,3) into normando
+copy to kk for not eof("normando")
+use kk alias cuadro
+set relation to str(jug_num1,3) into normando
+set relation to jug_num1 into jugadore additive
+set relation to jug_num2 into segundo additive
+set relation to resultado into resultad additive
+goto top
+_pcopies = 4
+report form ..\reports\norma noconsole to print prompt
+_pcopies = 1
+select normando
+set relation to num_lista into jugadore
+report form ..\reports\norma2 noconsole to print prompt
+close database
+erase kk.dbf
+set near off

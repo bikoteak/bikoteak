@@ -1,0 +1,26 @@
+select 0
+use sub_torn
+set order to tag(1)
+select 0
+use control
+nume_ron = ronda
+set relation to sub_torneo into sub_torn
+fichero = "internet\" + "ron" + right("00" + alltrim(str(control.ronda)),2)+;
+   sub_torn.nombre
+fichero2 = "swiss_manager\" + "ron" + right("00" + alltrim(str(control.ronda)),2)+;
+   ALLTRIM(sub_torn.nombre) + ".txt"
+close databases
+do suizo222
+use salres
+copy to &fichero
+close data
+set deleted off
+report form resul environment noconsole to print ;
+   prompt for cuadro.n_ronda = control.ronda .and. ;
+   cuadro.status
+close databases
+SET DELETED on
+do res_html with nume_ron , fichero
+DO swissres
+DO sumfic WITH "swiss_manager\ron_swis.txt", "rondas.txt", fichero2
+CLOSE DATABASES

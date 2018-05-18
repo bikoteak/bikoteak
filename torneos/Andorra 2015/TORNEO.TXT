@@ -1,0 +1,36 @@
+
+Elo        157.00
+No Elo          9.00
+Nº g         15.00
+Nº wg          1.00
+Nº m         14.00
+Nº wm          2.00
+Nº f         14.00
+Nº wf          2.00
+
+Elo Federaciones         18
+No Elo Federaciones          2
+Federaciones g          7
+Federaciones wg          1
+Federaciones m          6
+Federaciones wm          2
+Federaciones f          3
+Federaciones wf          2
+
+Locales Elo         15.00
+Locales no Elo          5.00
+Locales g          0.00
+Locales wg          0.00
+Locales m          0.00
+Locales wm          0.00
+Locales f          1.00
+Locales wf          0.00
+
+Foraneos Elo        142.00
+Foraneos no Elo          4.00
+Foraneos g         15.00
+Foraneos wg          1.00
+Foraneos m         14.00
+Foraneos wm          2.00
+Foraneos f         13.00
+Foraneos wf          2.00

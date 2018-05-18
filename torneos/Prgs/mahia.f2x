@@ -1,0 +1,29 @@
+SELECT 0
+USE torneo
+SELECT 0
+USE sub_torn
+SET ORDER TO TAG("Codigo")
+SELECT 0
+USE control
+SET RELATION TO sub_torneo INTO Sub_torn
+SELECT 0
+USE banderas
+SET ORDER TO TAG("Federacion")
+SELECT 0
+USE banderas AGAIN ALIAS Banderas_a
+SET ORDER TO TAG("Federacion")
+SELECT 0
+USE jugadore
+SET ORDER TO TAG("Num_lista")
+SET RELATION TO federacion INTO Banderas
+SELECT 0
+USE jugadore AGAIN ALIAS jugadore_a
+SET ORDER TO TAG("Num_lista")
+SET RELATION TO federacion INTO Banderas_a
+SELECT 0
+USE rondas
+SET RELATION TO jug_num1 INTO Jugadore
+SET RELATION TO jug_num2 INTO Jugadore_a ADDITIVE
+REPORT FORM mahaia TO printer prompt
+CLOSE DATABASES
+

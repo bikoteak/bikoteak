@@ -1,0 +1,20 @@
+select 0
+use sub_torn
+set order to tag(1)
+select 0
+use control
+set relation to sub_torneo into sub_torn
+fichero = "c:\torneos\internet\" + "lins" + sub_torn.nombre
+SELECT 0
+use jugadore
+set order to tag("num_lista")
+copy fields control.sub_torneo, Jugadore.num_lista, Jugadore.sexo, Jugadore.licencia,;
+  Jugadore.Licencia_n, Jugadore.Licencia_a, Jugadore.nombre, Jugadore.categoria, Jugadore.elo_fide,;
+  Jugadore.Elo_naci, Jugadore.Elo_prov, Jugadore.federacion, Jugadore.fecha_naci to &fichero
+close data
+report form inscrito environment noconsole to print prompt
+do lin_html with fichero
+close databases
+DO swissman
+close databases
+DO sumfic WITH "..\swiss_manager\ins_swis.txt", "jugadore.txt", "..\swiss_manager\imp_juga.txt"

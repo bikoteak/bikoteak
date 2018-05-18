@@ -1,0 +1,166 @@
+001    1 m  g Georgiev, Kiril                   2654 BUL     2900017 1965        7.5    1    77 w 1    38 b 1    20 w 1    12 b 1     8 w 1    10 b =     6 w 1     2 b =    11 w =  
+001    2 m  g Hamdouchi, Hicham                 2628 FRA     9000011 1972        6.0   15    78 b 1    40 w 1    21 b 0    54 w 1    27 b 1    14 w =    17 b 1     1 w =    10 b 0  
+001    3 m  g Damljanovic, Branko               2611 SRB      900125 1961        7.0    6    79 w 1    39 b 1    22 w =    24 b =    31 w 1    15 b 1    10 w =    11 b =    18 w 1  
+001    4 m  g Iturrizaga, Eduardo               2603 VEN     3901211 1989        7.0    4    80 b 1    42 w 1    23 b 1    17 w =    14 b =    19 w 1    12 b 0     5 w 1    21 b 1  
+001    5 m  g Peralta, Fernando                 2601 ARG      105309 1979        6.0   16    81 w 1    43 b 1    24 w =    31 b =    33 w 1    18 b 1    11 w =     4 b 0    41 w =  
+001    6 m  g Arizmendi Martinez, Julen Luis    2555 ESP     2205092 1976        7.0    2    82 b 1    46 w 1    25 b 1    19 w =    17 b 1     7 w 1     1 b 0    12 w =    14 b 1  
+001    7 m  g Almeida Quintana, Omar            2548 CUB     3503313 1981        6.5    7    83 w 1    45 b 1    26 w 1    21 b 1    10 w =     6 b 0    16 w 1    24 b =    15 w =  
+001    8 m  g Kogan, Artur                      2548 ISR     2800802 1974        6.5    9    84 b 1    49 w 1    27 b 1    32 w 1     1 b 0    21 w 0    33 b 1    20 w 1    12 b =  
+001    9 m  g Marin, Mihail                     2548 ROU     1200020 1965        6.5   12             109 b 1    72 w 1    47 b 1    36 w 1    20 b =    24 w 0    31 b 1    49 w 1  
+001   10 m  g Narciso Dublan, Marc              2544 ESP     2201500 1974        7.0    3    85 w 1    47 b 1    28 w 1    36 b 1     7 b =     1 w =     3 b =    21 w =     2 w 1  
+001   11 m  m Ibarra Jerez, Jose Carlos         2530 ESP     2226332 1985        6.5   10    86 b 1    52 w 1    29 b =    34 w 1    19 b =    56 w 1     5 b =     3 w =     1 b =  
+001   12 m  m Zoler, Dan                        2527 ISR     2800705 1974        7.0    5    87 w 1    51 b 1    30 w 1     1 w 0    29 b 1    41 b 1     4 w 1     6 b =     8 w =  
+001   13 m  g Del Rio De Angelis, Salvador G.   2509 ESP     2203138 1976        6.0   23    88 b 1    54 w =    36 b 0    94 w 1    57 b 1    29 w 1    21 b =    32 w =    19 b =  
+001   14 m  g Gonzalez Vidal, Yuri              2503 CUB     3503321 1981        6.0   14    89 w 1    55 b 1    31 w =    22 b 1     4 w =     2 b =    20 w =    30 b 1     6 w 0  
+001   15 m  m Riff, Jean-Noel                   2493 FRA      611190 1981        6.5    8             110 w 1    57 b 1    46 w 1    32 b 1     3 w 0    34 b 1    27 w 1     7 b =  
+001   16 m  g Norwood, David R                  2491 AND      400106 1968        6.0   25    90 b 1    57 w =   121 b 1    29 w 0    54 b 1    42 w 1     7 b 0    37 w =    32 b 1  
+001   17 m  m Venkatesh, M.R.                   2480 IND     5005779 1985        6.0   17    91 w 1    58 b 1    33 w 1     4 b =     6 w 0    35 b 1     2 w 0    42 b 1    24 w =  
+001   18 m  m Das, Arghyadip                    2471 IND     5003610 1985        6.0   20    92 b 1    59 w 1    32 b 0    49 w 1    37 b 1     5 w 0    36 b 1    40 w 1     3 b 0  
+001   19 m  g Rodriguez Guerrero, Enrique       2449 ESP     2216892 1983        6.0   18    93 w 1    60 b 1    37 w 1     6 b =    11 w =     4 b 0    39 w 1    41 b =    13 w =  
+001   20 m  m Wegerle, Joerg                    2446 GER     4644743 1985        6.0   19    94 b 1    61 w 1     1 b 0    51 w 1    38 b 1     9 w =    14 b =     8 b 0    60 w 1  
+001   21 m  m Caspi, Israel                     2443 ISR     2807394 1989        6.0   13    95 w 1    62 b 1     2 w 1     7 w 0    40 b 1     8 b 1    13 w =    10 b =     4 w 0  
+001   22 m  m Gagarin, Vasilij                  2428 RUS     4103610 1960        5.5   32    99 b 1    63 w 1     3 b =    14 w 0    59 b =    49 w =    57 b =    54 w 1    37 b =  
+001   23 m  m Moussard, Jules                   2426 FRA      642908 1995        5.5   35   100 w 1    65 b 1     4 w 0    53 b 1    41 w 0    45 b =    55 w 1    49 b 0    58 w 1  
+001   24 w    Tania, Sachdev                    2419 IND     5007844 1986        6.5   11   101 b 1    67 w 1     5 b =     3 w =    42 b =    44 w 1     9 b 1     7 w =    17 b =  
+001   25 m  m Jerez Perez, Alfonso              2416 ESP     2204100 1971        6.0   27   103 w 1    66 b 1     6 w 0    55 b 1    45 w =    39 b =    41 w 0    56 b 1    68 w 1  
+001   26 m  m Mascaro March, Pedro              2413 ESP     2217570 1973        6.0   26   104 b 1    69 w 1     7 b 0    52 w 1    56 b 0    50 w 1    37 b =    71 w 1    29 b =  
+001   27 m  m Panelo, Marcelo                   2413 ARG      104213 1973        6.0   22   105 w 1    68 b 1     8 w 0    60 b 1     2 w 0    52 b 1    45 w 1    15 b 0    39 w 1  
+001   28 m  m Klenburg, Mikhail                 2412 UKR    14102072 1978        6.0   28   106 b 1    71 w 1    10 b 0    56 w 0    72 b 1    59 w 1    40 b 0    57 w 1    44 b 1  
+001   29 m  m Vehi Bach, Victor Manuel          2403 ESP     2200228 1960        6.0   21   107 w 1    70 b 1    11 w =    16 b 1    12 w 0    13 b 0    64 w 1    51 b 1    26 w =  
+001   30 m  m Mullon, Jean-Baptiste             2400 FRA      613606 1978        5.5   37   108 b 1    73 w 1    12 b 0    61 w =    63 b =    69 w 1    56 b 1    14 w 0    40 b =  
+001   31 m  m Berkovich, Mark A                 2396 ISR     2801639 1952        5.5   29   109 w 1    72 b 1    14 b =     5 w =     3 b 0    63 w =    61 b 1     9 w 0    55 w 1  
+001   32 m  m Popilski, Gil                     2376 ISR     2809060 1993        5.5   30   112 w 1    74 b 1    18 w 1     8 b 0    15 w 0    58 b 1    85 w 1    13 b =    16 w 0  
+001   33 m  f Sochacki, Christophe              2358 FRA      662569 1994        5.0   46   113 b 1    76 w 1    17 b 0    67 w 1     5 b 0    74 w 1     8 w 0    60 b 0    85 w 1  
+001   34 m  f Lillo Castay, Victor              2281 ESP     2278995 1991        5.5   39   114 w 1   111 b =    35 w 1    11 b 0    58 w =    62 b 1    15 w 0    66 b =    70 w 1  
+001   35 m  k De La Riva Aguado, Jorge          2279 ESP     2204738 1975        4.5   74   115 b 1   121 w =    34 b 0    88 w 1    71 b 1    17 w 0    63 b =    72 w =    66 b 0  
+001   36 m  f Bykov, Alexey                     2278 RUS     4165365 1963        5.0   45   116 w 1   124 b 1    13 w 1    10 w 0     9 b 0    66 b 1    18 w 0    68 b 0    77 w 1  
+001   37 w    Porat, Maya                       2274 ISR     2808072 1991        5.5   34   117 b 1   131 w 1    19 b 0    69 w 1    18 w 0    70 b 1    26 w =    16 b =    22 w =  
+001   38 m    Priebe, Jan                       2274 GER     4657527 1980        5.5   41   118 w 1     1 w 0    73 b 1    62 b 1    20 w 0    76 w =    71 b 0    82 w 1    69 b 1  
+001   39 w wg Hamdouchi, Adina-Maria            2266 FRA     1206435 1979        5.0   43   119 b 1     3 w 0    74 b 1    71 w =    61 b 1    25 w =    19 b 0    63 w 1    27 b 0  
+001   40 m    Villegas, Pierre                  2255 MNC      654183 1992        5.5   31   120 w 1     2 b 0    77 w 1    66 b 1    21 w 0    78 b 1    28 w 1    18 b 0    30 w =  
+001   41 m    Karasik, Evgeni                   2249 ISR     2803941 1975        6.0   24   121 b 0   113 w 1    76 b 1    78 w 1    23 b 1    12 w 0    25 b 1    19 w =     5 b =  
+001   42 m    Nass, Emile                       2247 FRA      635944 1988        5.5   36   122 w 1     4 b 0    79 w 1    68 b 1    24 w =    16 b 0    96 w 1    17 w 0    71 b 1  
+001   43 w wm Llaneza Vega, Patricia            2246 ESP     2212676 1979        4.5   80   123 b 1     5 w 0    78 b 0   121 w 1    74 b 0   104 w 1    76 b =    80 w 1    72 b 0  
+001   44 m  f Buchenau, Frank                   2237 GER     4604350 1967        5.0   55   124 w 0   112 b 1    85 w =    70 b 1    64 w 1    24 b 0    68 w =    87 b 1    28 w 0  
+001   45 m    Kogan, Pavel                      2221 ISR     2804425 1980        5.5   38   125 b 1     7 w 0    82 b 1   106 w 1    25 b =    23 w =    27 b 0    76 w =    73 b 1  
+001   46 m  f Garcia, Raul                      2213 AND     6900020 1952        4.0   90   126 w 1     6 b 0    87 w 1    15 b 0    77 w 1    85 b 0    75 w =    79 b =    82 w 0  
+001   47 m  m Archangelsky, Mikhail             2210 RUS     4117573 1948        5.0   57   127 b 1    10 w 0    84 b 1     9 w 0    76 b 0   107 w =    98 b =   101 w 1    86 b 1  
+001   48 m    Monell Camarasa, David            2206 AND     2207753 1970        1.0  153    64 w 1  
+001   49 m    Bas Mas, Jose Joaquin             2194 ESP    22219064 1995        5.5   33   128 w 1     8 b 0    89 w 1    18 b 0    81 w 1    22 b =   100 w 1    23 w 1     9 b 0  
+001   50 m  k Bautista Sanchez, Joan            2184 ESP     2213885 1940        4.5   69             114 b 1    91 w =   100 b 1    85 w =    26 b 0    77 w 1    70 b =  
+001   51 m    Basora Pascual, Lluc              2178 ESP     2210908 1977        5.0   48   129 b 1    12 w 0    86 b 1    20 b 0    83 w =    80 w 1    73 b 1    29 w 0    76 b =  
+001   52 m  k Muratet Casadevall, Albert        2170 ESP     2215250 1965        5.0   51   130 w 1    11 b 0    93 w 1    26 b 0    87 w 1    27 w 0    74 b 1    85 b =    95 w =  
+001   53 m  f Happel, Henk                      2169 NED     1001078 1942        4.0  101   131 b 0   115 w 1    90 b 1    23 w 0    78 b 0   127 w 1    82 b 0   102 w 1    84 b 0  
+001   54 m    Albets Armengol, Roland           2169 ESP     2278049 1990        4.5   65   132 w 1    13 b =   111 w 1     2 b 0    16 w 0    75 b =    78 w 1    22 b 0    79 w =  
+001   55 m    Navarro Lopez-Menchero, Daniel    2165 ESP     2297370 1995        4.5   67   133 b 1    14 w 0    92 b 1    25 w 0    84 b =    86 w 1    23 b 0    90 w 1    31 b 0  
+001   56 w wm Marin, Irina-Luiza                2164 ROU     1201778 1970        4.0   86             116 b 1    95 w 1    28 b 1    26 w 1    11 b 0    30 w 0    25 w 0    88 b 0  
+001   57 m    Ben Porat, Or                     2160 ISR     2809516 1991        5.0   44   134 w 1    16 b =    15 w 0    91 b 1    13 w 0    83 b 1    22 w =    28 b 0    87 w 1  
+001   58 m    Lillo Ferrer, Jose Maria M.       2151 ESP     2210002 1953        4.5   71   135 b 1    17 w 0    94 b =    98 w 1    34 b =    32 w 0    84 b =   121 w 1    23 b 0  
+001   59 m    Mosca, Leonildo                   2127 ITA      808873 1956        5.0   56   136 w 1    18 b 0   103 w =   107 b 1    22 w =    28 b 0    87 w 0   112 b 1    83 w 1  
+001   60 m    Helmers, Wim                      2118 NED     1006592 1956        5.0   50   137 b 1    19 w 0    99 b 1    27 w 0    90 b =    84 w =    93 b 1    33 w 1    20 b 0  
+001   61 m    Jose Queralto, Daniel             2111 AND     6900089 1973        4.5   70   138 w 1    20 b 0   105 w 1    30 b =    39 w 0    89 b 1    31 w 0    75 b =    93 w =  
+001   62 m    Hensbergen, Willem                2110 NED     1009630 1954        5.0   58   140 b 1    21 w 0   102 b 1    38 w 0    92 b 1    34 w 0    94 b =    84 w =    99 b 1  
+001   63 m    Fernandez Lopez, Joan             2106 AND     6900348 1989        4.0   88   141 w 1    22 b 0   107 w =   103 b 1    30 w =    31 b =    35 w =    39 b 0    97 w 0  
+001   64 m    Du Plessis, Heinco                2100 RSA    14306263 1994        5.0   59    48 b 0   117 w 1   104 b =   101 w 1    44 b 0    90 w 1    29 b 0    94 w =   115 b 1  
+001   65 m    Vos, Chris                        2097 NED     1010131 1962        4.0  106   142 w 1    23 w 0   106 b 0    99 w 1    96 b =   100 b 0   122 w 1    95 b 0   103 w =  
+001   66 w wm Heredia Serrano, Carla            2072 ECU     3603687 1991        5.5   42   143 b 1    25 w 0   108 b 1    40 w 0   104 b 1    36 w 0   101 b 1    34 w =    35 w 1  
+001   67 m    Lubbers, Johan                    2071 NED     1006312 1955        5.0   60   144 w 1    24 b 0   120 w 1    33 b 0    89 w =    96 b 0   105 w 1   100 b =   116 w 1  
+001   68 m    Silva Rodriguez, Fernando         2064 ESP     2215268 1993        5.0   53   145 b 1    27 w 0   125 b 1    42 w 0   106 b =   121 w 1    44 b =    36 w 1    25 b 0  
+001   69 w    Richard, Emma                     2050 FRA      657590 1991        4.5   73   146 w 1    26 b 0   124 w 1    37 b 0    93 w 1    30 b 0    95 w =    96 b 1    38 w 0  
+001   70 m    Sola Plaza, Gregorio              2041 ESP     2221500 1972        4.5   76   147 b 1    29 w 0   131 b 1    44 w 0   125 b 1    37 w 0   102 b 1    50 w =    34 b 0  
+001   71 m    Chauvet, Vincent                  2032 FRA    20646682 1994        4.5   68   148 w 1    28 b 0   138 w 1    39 b =    35 w 0   106 b 1    38 w 1    26 b 0    42 w 0  
+001   72 m    Feys, Bert                        2008 BEL      233137 1987        5.5   40   149 b 1    31 w 0     9 b 0   102 w 1    28 w 0   112 b 1   118 w 1    35 b =    43 w 1  
+001   73 m    Gomez Oliveros, Hilario Enrique   2007 ESP    22200320 1964        4.5   82   150 w 1    30 b 0    38 w 0   105 b =   103 w 1   120 b 1    51 w 0   131 b 1    45 w 0  
+001   74 m    Zilverberg, Jasper                2007 NED     1016083 1984        5.0   52   151 b 1    32 w 0    39 w 0   109 b 1    43 w 1    33 b 0    52 w 0   114 b 1   100 w 1  
+001   75 m    Santos Folch, Adolfo              2001 ESP     2222973 1981        4.5   72                       129 b 1   108 w =   111 b 1    54 w =    46 b =    61 w =    94 b =  
+001   76 m    Oosterman, Maarten-Jan            1992 NED     1025929 1964        5.0   47   152 w 1    33 b 0    41 w 0   114 b 1    47 w 1    38 b =    43 w =    45 b =    51 w =  
+001   77 m    Sanchez Dengra, Jose Maria        1986 ESP    22245391 1997        4.0   89     1 b 0   119 w 1    40 b 0   110 w 1    46 b 0   114 w 1    50 b 0   127 w 1    36 b 0  
+001   78 m    Ben Porat, Zeev                   1984 ISR     2801051 1956        4.0   87     2 w 0   118 b 1    43 w 1    41 b 0    53 w 1    40 w 0    54 b 0   116 b 0   120 w 1  
+001   79 m    Vink, Wim                         1980 NED     1012070 1937        4.5   78     3 b 0   123 w 1    42 b 0   113 w =   108 b =   115 w =   107 b 1    46 w =    54 b =  
+001   80 m    Rionda Medio, Angel Arturo        1978 ESP     2238934 1964        4.5   83     4 w 0   120 b 0   132 w 1   116 b =   105 w 1    51 b 0   106 w 1    43 b 0   107 w 1  
+001   81 w    Georgieva, Emilia                 1975 BUL     2902451 1967        3.5  115     5 b 0   125 w 0   133 b 1   115 w 1    49 b 0   117 w =   121 b 0   109 w 1   106 b 0  
+001   82 m    Ouwersloot, Hans                  1962 NED     1022970 1962        5.0   54     6 w 0   122 b 1    45 w 0   120 b =   107 w =   116 b 1    53 w 1    38 b 0    46 b 1  
+001   83 m    Oliva Llorens, Antoni             1958 ESP    22271015 1943        4.0   94     7 b 0   127 w =   145 b 1   104 w =    51 b =    57 w 0   115 b =   110 w 1    59 b 0  
+001   84 m    Mateu Guiu, Esteve                1945 AND    22270728 1992        5.0   49     8 w 0   126 b 1    47 w 0   122 b 1    55 w =    60 b =    58 w =    62 b =    53 w 1  
+001   85 m    Fernandez Vazquez, Jorge          1940 ESP    22222294 1980        4.5   64    10 b 0   129 w 1    44 b =   111 w 1    50 b =    46 w 1    32 b 0    52 w =    33 b 0  
+001   86 m    Montiel Miguelez, Manuel          1937 ESP     2257270 1966        4.0   93    11 w 0   128 b 1    51 w 0   124 b =   113 w 1    55 b 0   120 w =   118 b 1    47 w 0  
+001   87 m    Garcia-Blazquez Perez, Manuel     1936 ESP     2269937 1977        4.0   91    12 b 0   133 w 1    46 b 0   117 w 1    52 b 0   123 w 1    59 b 1    44 w 0    57 b 0  
+001   88 m    Cromsigt, Jeroen                  1935 NED     1028839 1970        5.0   62    13 w 0   130 b =   141 w 1    35 b 0   116 w =   118 b 0   124 w 1   120 b 1    56 w 1  
+001   89 m    Tuerlinckx, Ben                   1935 BEL      229334 1998        4.0   98    14 b 0   135 w 1    49 b 0   119 w 1    67 b =    61 w 0   127 b =   115 w 0   123 b 1  
+001   90 m    Gawle, Ireneusz                   1925 POL     1157329 1956        4.5   81    16 w 0   132 b 1    53 w 0   126 b 1    60 w =    64 b 0   113 w 1    55 b 0   128 w 1  
+001   91 m    Sevenyuk, Alexey                  1924 BLR    13504606 1944        4.5   85    17 b 0   137 w 1    50 b =    57 w 0   121 b 0   119 w 1   131 b 0   117 w 1   125 b 1  
+001   92 m    Pampliega Canturri, Antoni        1912 ESP     2258030 1933        3.0  125    18 w 0   134 b 1    55 w 0   138 b 1    62 w 0   122 b 0   126 w 0   136 b 1   124 w 0  
+001   93 m    Nieves Cabanes, Javier            1910 ESP    22245707 1996        4.5   84    19 b 0   140 w 1    52 b 0   123 w 1    69 b 0   125 w 1    60 w 0   122 b 1    61 b =  
+001   94 m    Rosenfeld, Imre                   1905 FRA      614521 1939        4.5   75    20 w 0   136 b 1    58 w =    13 b 0   118 w =   124 b 1    62 w =    64 b =    75 w =  
+001   95 m    Benet Morant, Damia               1902 ESP     2291959 1992        5.0   61    21 b 0   143 w 1    56 b 0   125 w 0   145 b 1   133 w 1    69 b =    65 w 1    52 b =  
+001   96 m    Tardio Fran, Emilio               1901 ESP     2222116 1950        3.5  114             138 b 0   134 w 1   128 b 1    65 w =    67 w 1    42 b 0    69 w 0   121 b 0  
+001   97 m    Dubreuil, Remy                    1895 FRA      616257 1940        5.0   63                       135 b 1   131 w =   127 b 0   145 w 1   117 b =   123 w 1    63 b 1  
+001   98 m    Elizondo Market, Juan Marcos      1892 ESP     2252236 1969        3.5  118             141 b =   144 w 1    58 b 0   120 w 0   132 b 1    47 w =   128 b =   131 w 0  
+001   99 m    Nadal Bestard, Sebastia           1875 ESP     2285231 1972        4.0  107    22 w 0   142 b 1    60 w 0    65 b 0   128 w 0   138 b 1   129 w 1   126 b 1    62 w 0  
+001  100 m    Ramaekers, Philippe               1868 NED     1040162 1988        4.0   92    23 b 0   145 w =   127 b 1    50 w 0   131 b 1    65 w 1    49 b 0    67 w =    74 b 0  
+001  101 w    Aguilera Quiztke, Alexandra       1863 ESP     2278146 1986        4.0   96    24 w 0   144 b =   130 w 1    64 b 0   124 w =   126 b 1    66 w 0    47 b 0   122 w 1  
+001  102 m    Zamora Alarcon, Juli              1863 ESP    22272640 1945        3.0  123             146 b 1    62 w 0    72 b 0   129 w 1   128 b 1    70 w 0    53 b 0   126 w 0  
+001  103 m    Ben Porat, Tal                    1857 ISR     2804719 1994        4.0  100    25 b 0   147 w 1    59 b =    63 w 0    73 b 0   131 w 0   135 b 1   111 w 1    65 b =  
+001  104 m    Ortiz De Latierro Olivella,Aitor  1848 ESP    22271112 1994        4.0  102    26 w 0   150 b 1    64 w =    83 b =    66 w 0    43 b 0   128 w 0   138 b 1   130 w 1  
+001  105 m    Nielsen, Erik Rene                1834 DEN     1413341 1961        2.5  139    27 b 0   149 w 1    61 b 0    73 w =    80 b 0   147 w 1    67 b 0   125 w 0   137 b 0  
+001  106 m    Verhelst, Joris                   1832 BEL      210579 1995        4.5   77    28 w 0   152 b 1    65 w 1    45 b 0    68 w =    71 w 0    80 b 0   113 b 1    81 w 1  
+001  107 m    Bas Mas, Miguel                   1830 ESP     2237954 1998        3.5  111    29 b 0   151 w 1    63 b =    59 w 0    82 b =    47 b =    79 w 0   137 w 1    80 b 0  
+001  108 m    Moscoso Rodriguez, Joan           1830 AND     6900100 1954        2.5  135    30 w 0   153 b 1    66 w 0    75 b =    79 w =                       144 b =   113 w 0  
+001  109 m    Gorgues Valle, Jose Maria         1827 AND     6900011 1945        3.5  117    31 b 0     9 w 0   137 b 1    74 w 0   133 b 0   139 w 1   125 b =    81 b 0   144 w 1  
+001  110 m    Marin, Victor-Mihai               1819 ROU     1209582 1998        4.0  109              15 b 0   136 w 1    77 b 0   132 w 0   141 b 1   130 w 1    83 b 0   129 w 1  
+001  111 m    Van Steenwinckel, Hugo            1818 BEL      222534 1956        2.5  136   153 w 1    34 w =    54 b 0    85 b 0    75 w 0   113 b 0   142 w 1   103 b 0   152 b 0  
+001  112 m    Bas Sanchez, Jose Joaquin         1817 ESP    22241132 1965        4.0  108    32 b 0    44 w 0   139 b 0   143 w 1   135 b 1    72 w 0   133 b 1    59 w 0   119 b 1  
+001  113 m    Lopies, Andre                     1812 NED     1015702 1963        3.5  113    33 w 0    41 b 0   142 w 1    79 b =    86 b 0   111 w 1    90 b 0   106 w 0   108 b 1  
+001  114 m    Vidal Moscardo, Blas              1811 ESP     2287005 1949        4.0  104    34 b 0    50 w 0   140 b 1    76 w 0   137 b 1    77 b 0   132 w 1    74 w 0   127 b 1  
+001  115 m    Sterck, Arno                      1804 BEL      228249 1999        4.0   97    35 w 0    53 b 0   146 w 1    81 b 0   134 w 1    79 b =    83 w =    89 b 1    64 w 0  
+001  116 m    Lloveras Hernanz, Jose Antonio    1790 ESP     2290413 1953        4.0   99    36 b 0    56 w 0   143 b 1    80 w =    88 b =    82 w 0   144 b 1    78 w 1    67 b 0  
+001  117 m    Mercier, Pierre                   1788 FRA      635863 1938        4.0  105    37 w 0    64 b 0   150 w 1    87 b 0   136 w 1    81 b =    97 w =    91 b 0   132 w 1  
+001  118 m    Clanchet Olle, Josep              1782 ESP     2264358 1984        4.0  103    38 b 0    78 w 0   147 b =   139 w 1    94 b =    88 w 1    72 b 0    86 w 0   133 b 1  
+001  119 m    De Bruin, Joost                   1778 NED     1040189 1987        3.0  132    39 w 0    77 b 0   152 w 1    89 b 0   138 w =    91 b 0   153 w =   146 b 1   112 w 0  
+001  120 m    Van Hille, Reinout                1772 BEL      222186 1996        3.0  121    40 b 0    80 w 1    67 b 0    82 w =    98 b 1    73 w 0    86 b =    88 w 0    78 b 0  
+001  121 w    Hendrix, Judith                   1757 NED     1033654 1993        4.5   66    41 w 1    35 b =    16 w 0    43 b 0    91 w 1    68 b 0    81 w 1    58 b 0    96 w 1  
+001  122 m    Van Hauwermeiren, Kwinten         1728 BEL      228524 1997        3.0  124    42 b 0    82 w 0   148 b 1    84 w 0   139 b 1    92 w 1    65 b 0    93 w 0   101 b 0  
+001  123 m    Vyvyan, Philippe                  1724 FRA      682250 1975        3.0  127    43 w 0    79 b 0   153 w 1    93 b 0   141 w 1    87 b 0   136 w 1    97 b 0    89 w 0  
+001  124 m    Nieves Cabanes, Jose Manuel       1722 ESP    22245715 2000        4.0   95    44 b 1    36 w 0    69 b 0    86 w =   101 b =    94 w 0    88 b 0   135 w 1    92 b 1  
+001  125 m    Pericas Rechi, Marc               1705 AND    22271279 1994        3.5  112    45 w 0    81 b 1    68 w 0    95 b 1    70 w 0    93 b 0   109 w =   105 b 1    91 w 0  
+001  126 m    Merayo Lopez, David               1701 ESP    32013329 1984        4.0  110    46 b 0    84 w 0   149 b 1    90 w 0   140 b 1   101 w 0    92 b 1    99 w 0   102 b 1  
+001  127 m    Casanovas Cantarero, Eric         1698 AND     6900445 1997        3.0  122    47 w 0    83 b =   100 w 0   144 b 1    97 w 1    53 b 0    89 w =    77 b 0   114 w 0  
+001  128 m    Porat, Rami                       1691 ISR     2808960 1961        3.5  116    49 b 0    86 w 0   151 b 1    96 w 0    99 b 1   102 w 0   104 b 1    98 w =    90 b 0  
+001  129 m    Melcon Diez, Enrique              1684 ESP    32043180 1959        3.0  128    51 w 0    85 b 0    75 w 0   142 b 1   102 b 0   140 w 1    99 b 0   147 w 1   110 b 0  
+001  130 m    Vera Juan, Andreu                 1683 ESP    22273921 1996        3.0  131    52 b 0    88 w =   101 b 0   145 w 0   147 b =   143 w 1   110 b 0   148 w 1   104 b 0  
+001  131 m    Torrent Casado, Marc              1665 AND     6900623 1996        4.5   79    53 w 1    37 b 0    70 w 0    97 b =   100 w 0   103 b 1    91 w 1    73 w 0    98 b 1  
+001  132 m    Tormo Bas, Gonzalo                1645 ESP    32018614 1996        3.0  130    54 b 0    90 w 0    80 b 0   148 w 1   110 b 1    98 w 0   114 b 0   151 w 1   117 b 0  
+001  133 m    Witt, Holger                      1608 GER    24678139 1968        3.0  129    55 w 0    87 b 0    81 w 0   146 b 1   109 w 1    95 b 0   112 w 0   153 b 1   118 w 0  
+001  134 w    Da Rocha Soares, Diana            1577 AND    22268820 1996        2.5  144    57 b 0    92 w 0    96 b 0   149 w 1   115 b 0   144 w 0   143 b =   145 b =   146 w =  
+001  135 m    Idoate Arrazurria, Ricardo        1573 ESP    32008627 1939        2.5  143    58 w 0    89 b 0    97 w 0   150 b 1   112 w 0   146 b 1   103 w 0   124 b 0   145 w =  
+001  136 m    Lopez Pla, Francesc Asis          1570 AND     6900054 1996        3.0  133    59 b 0    94 w 0   110 b 0   151 w 1   117 b 0   148 w 1   123 b 0    92 w 0   143 b 1  
+001  137 m    Porte, Jacques                    1550 FRA      664847 1933        3.5  119    60 w 0    91 b 0   109 w 0   152 b 1   114 w 0   153 b =   145 w 1   107 b 0   105 w 1  
+001  138 m    Jansat Mir, Arnau                 1542 AND     6900267 2000        3.0  126    61 b 0    96 w 1    71 b 0    92 w 0   119 b =    99 w 0   147 b =   104 w 0   148 b 1  
+001  139 m    Jonker, Jan                       1528 FRA      664413 1934        2.0  146                       112 w 1   118 b 0   122 w 0   109 b 0   146 w 0   149 b 0   150 b 1  
+001  140 m    Nieves Pamplona, Juan Miguel      1520 ESP    22293280 1965        3.0  134    62 w 0    93 b 0   114 w 0   153 b 1   126 w 0   129 b 0   148 b 0   150 w 1   147 b 1  
+001  141 m    Munoz Medina, Francisco           1516 ESP    32013345 1943        2.5  140    63 b 0    98 w =    88 b 0   147 w =   123 b 0   110 w 0   152 b =   143 w =   151 b =  
+001  142 w    Karsenty, Madeleine               1401 FRA      605654 1939        2.5  145    65 b 0    99 w 0   113 b 0   129 w 0   144 w =   149 b 1   111 b 0   152 w 0   153 w 1  
+001  143 m    Melcon Mediavilla, Rodrigo           0 ESP    32036817 1998        2.0  148    66 w 0    95 b 0   116 w 0   112 b 0   150 w 1   130 b 0   134 w =   141 b =   136 w 0  
+001  144 m    Adriaans, Mario                      0 NED     1032917 1956        2.5  138    67 b 0   101 w =    98 b 0   127 w 0   142 b =   134 b 1   116 w 0   108 w =   109 b 0  
+001  145 m    Smeets, Frits                        0 NED           0 1988        2.5  137    68 w 0   100 b =    83 w 0   130 b 1    95 w 0    97 b 0   137 b 0   134 w =   135 b =  
+001  146 m    Riba Rivert, Valenti                 0 AND     6900364 2000        2.5  141    69 b 0   102 w 0   115 b 0   133 w 0   151 b 1   135 w 0   139 b 1   119 w 0   134 b =  
+001  147 w    Galera Serra, Maria                  0 AND     6900283 1998        2.0  147    70 w 0   103 b 0   118 w =   141 b =   130 w =   105 b 0   138 w =   129 b 0   140 w 0  
+001  148 m    Trojman Gea, Alex                    0 AND     6900674 2001        2.0  150    71 b 0             122 w 0   132 b 0   152 w 1   136 b 0   140 w 1   130 b 0   138 w 0  
+001  149 w    Lacuesta Malkovets, Carolina         0 AND           0 2002        2.0  149    72 w 0   105 b 0   126 w 0   134 b 0   153 w 0   142 w 0   151 b 0   139 w 1     0 w -  
+001  150 w    Lacuesta Malkovets, Julia            0 AND           0 1999        1.0  152    73 b 0   104 w 0   117 b 0   135 w 0   143 b 0   151 w 0     0 w -   140 b 0   139 w 0  
+001  151 m    Heiremans, Guillaume                 0 BEL      235490 2001        2.5  142    74 w 0   107 b 0   128 w 0   136 b 0   146 w 0   150 b 1   149 w 1   132 b 0   141 w =  
+001  152 w    Heiremans, Manon                     0 BEL      235504 1999        3.5  120    76 b 0   106 w 0   119 b 0   137 w 0   148 b 0     0 w -   141 w =   142 b 1   111 w 1  
+001  153 m    Salvador Duch, Xabier                0 ESP           0 1966        2.0  151   111 b 0   108 w 0   123 b 0   140 w 0   149 b 1   137 w =   119 b =   133 w 0   142 b 0  
+012 XXIX Obert Internacional d´Escacs d´Andorra       
+022 Erts-La Massana     
+032 AND  
+042 16-07-11 
+052 24-07-11 
+062  153
+072  149
+092 Suizo Individual Mixto
+102 IA Juanjo Escribano
+112 FA Enrique Oiarzabal Iturrioz
+112    Javier Oyarzabal Alzugaray
+122 90m + 30 s/mov 40m-30 m + 30 s /mov      
+132                                                                                        11/07/16  11/07/17  11/07/18  11/07/19  11/07/20  11/07/21  11/07/22  11/07/23  11/07/24  

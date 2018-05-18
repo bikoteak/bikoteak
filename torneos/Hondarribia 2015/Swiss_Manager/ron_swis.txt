@@ -1,0 +1,1 @@
+Ronda;Mesa;ID-B;ID-N;NoB;NoN;ResB;ResM;Incomparecencia
