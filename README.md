@@ -16,7 +16,9 @@ Ante los últimos cambios habidos en el [Reglamento del Sistema Suizo](http://ww
 
 Sí... Si tienes Visual Fox Pro, descargas todo lo que han en el repositorio y abres el archivo del proyecto, esto funciona. 
 
-Eso sí, tendrás que hacer un poco de "trabajos manuales" para hacer funcionar el programa (introducir jugadores...), ya que no tiene ventanas y opciones de menú automatizadas para realizar las tareas de carga de jugadores, etc. Tareas que, sin embargo, están implementadas en el programa y Juanjo las utilizaba. Pero se necesita un conocimiento más profundo del programa para saber dónde están y utilizar.as
+Eso sí, tendrás que hacer un poco de "trabajos manuales" para hacer funcionar el programa (introducir jugadores...), ya que no tiene ventanas y opciones de menú automatizadas para realizar las tareas de carga de jugadores, etc. Tareas que, sin embargo, están implementadas en el programa y Juanjo las utilizaba. Pero se necesita un conocimiento más profundo del programa para saber dónde están y utilizarlas
+
+Una pequeña guía de cómo poner en marcha y hacer las operaciones habituales de un torneo [https://github.com/bikoteak/bikoteak/wiki/Puesta-en-marcha](la hemos escrito aquí).
 
 ## ¿Está el programa que empareja aquí?
 
